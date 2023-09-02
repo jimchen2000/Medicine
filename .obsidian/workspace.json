@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Immunology/Innate Immunity/Phagocytosis.md",
+                "file": "Biochemistry.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7a86d33e79ded4e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Physiology.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Immunology/Innate Immunity/Phagocytosis.md",
+                "file": "Physiology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Immunology/Innate Immunity/Phagocytosis.md",
+                "file": "Physiology.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,16 +180,19 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "ffba50502f236581",
+  "active": "7a86d33e79ded4e6",
   "lastOpenFiles": [
+    "Biochemistry.md",
+    "Physiology.md",
+    "Syntax.md",
+    "Pathology.md",
+    "Immunology/Innate Immunity/Inflammation.md",
+    "Immunology/Innate Immunity/Phagocytosis.md",
     "README.md",
     "Immunology.md",
     "README.md.md",
-    "Immunology/Innate Immunity/Inflammation.md",
-    "Immunology/Innate Immunity/Phagocytosis.md",
     "Immunology/Innate Immunity/Phagocytosis/Pattern Recognition Receptor.md",
     "Immunology/Innate Immunity/Phagocytosis",
-    "Biochemistry.md",
     "Immunology/Innate Immunity/Complement System.md",
     "Resources/Pasted image 20230901153748.png",
     "Immunology/Cells/Macrophage.md",
@@ -195,9 +211,6 @@
     "Immunology/Cells/Mast Cell.md",
     "Immunology/Cells/Monocyte.md",
     "Immunology/Cells/Platelet.md",
-    "Immunology/Cells/Erythrocyte.md",
-    "Immunology/Cells/Myeloid Cell.md",
-    "Immunology/Cells/Lymphoid Cell.md",
     "Immunology/Organs",
     "Immunology/Cells",
     "Resources/Pasted image 20230901140435.png",
