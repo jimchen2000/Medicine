@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pathology.md",
+                "file": "Physiology.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pathology.md",
+                "file": "Physiology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pathology.md",
+                "file": "Physiology.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,6 +178,9 @@
   },
   "active": "fec55a8e8199e528",
   "lastOpenFiles": [
+    "Pathology.md",
+    "Microbiology.md",
+    "Syntax.md",
     "Physiology.md",
     "Physiology/Cell Physiology/Osmosis",
     "Physiology/Cell Physiology/Membrane Potential",
@@ -204,9 +207,6 @@
     "Intermediate Filament.md",
     "Microfilament.md",
     "Cytoskeleton.md",
-    "Endoplasmic Reticulum.md",
-    "Proteosome.md",
-    "Peroxisome.md",
     "Physiology/Cell Physiology/Membrane Transport",
     "Cell",
     "Physiology/Cell Physiology/Signal Transduction",
