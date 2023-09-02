@@ -22,5 +22,14 @@ Sources: Physeo
 #### Secondary Active Transport
 
 ### Membrane Potential
+#### Diffusion Potential
+#### Equilibrium Potential
+#### Resting Membrane Potential
+#### Action Potential
 ### Membrane Receptor
 ### Signal Transduction
+#### G Protein-Coupled Receptor
+##### G$\alpha$ Signaling
+##### G$\beta\gamma$ Signaling
+##### cAMP Pathway
+##### 
