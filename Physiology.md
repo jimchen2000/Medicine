@@ -1,14 +1,14 @@
 ---
 Created: [[2023-09-02]]
 Aliases: 
-Sources: Physeo
+Sources: Physeo, BRS
 ---
 # Physiology
 ## Cell Physiology
-### Cellular membrane
-#### Lipid Bilayer
-#### Proteins
-#### Intercellular Connections
+
+|
+
+
 
 ### Osmosis
 #### Osmolarity
@@ -39,5 +39,8 @@ Sources: Physeo
 ##### G$\beta\gamma$ Signaling
 
 ## Cardiovascular Physiology
-## Neural physiology
-
+## Respiratory Physiology
+## Renal Physiology
+## Neural Physiology
+## Endocrine Physiology
+## Gastrointestinal Physiology

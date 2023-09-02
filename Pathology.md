@@ -4,5 +4,3 @@ Aliases:
 Sources: 
 ---
 # Pathology
-
-

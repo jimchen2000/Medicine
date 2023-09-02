@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "54c7bb3a0f68520c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cell.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physiology.md",
+                "file": "Cell.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physiology.md",
+                "file": "Cell.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,18 +180,21 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "f7227be1c755a1b3",
+  "active": "54c7bb3a0f68520c",
   "lastOpenFiles": [
+    "Cell/Cell Membrane.md",
+    "Physiology.md",
+    "Cell.md",
+    "Cell",
+    "Pathology.md",
     "Immunology/Innate Immunity/Phagocytosis.md",
     "Biochemistry.md",
-    "Physiology.md",
     "Physiology/Cell Physiology/Signal Transduction/Phospholipase C Pathway.md",
     "Physiology/Cell Physiology/Signal Transduction/Adenylyl Cyclase Pathway.md",
     "Physiology/Cell Physiology/Signal Transduction",
     "Physiology/Cell Physiology",
     "Physiology",
     "Syntax.md",
-    "Pathology.md",
     "Immunology/Innate Immunity/Inflammation.md",
     "README.md",
     "Immunology.md",
@@ -187,22 +203,20 @@
     "Immunology/Innate Immunity/Phagocytosis",
     "Immunology/Innate Immunity/Complement System.md",
     "Resources/Pasted image 20230901153748.png",
-    "Immunology/Cells/Macrophage.md",
-    "Immunology/Organs/Spleen.md",
-    "Immunology/Organs/Lymphatic System.md",
+    "Immunology/Immune Cells/Macrophage.md",
+    "Immunology/Immune Organs/Spleen.md",
+    "Immunology/Immune Organs/Lymphatic System.md",
     "Immunology/Untitled",
-    "Immunology/Cells/B Cell.md",
-    "Immunology/Cells/Plasma Cell.md",
-    "Immunology/Cells/T Cell.md",
-    "Immunology/Cells/NK Cell.md",
+    "Immunology/Immune Cells/B Cell.md",
+    "Immunology/Immune Cells/Plasma Cell.md",
+    "Immunology/Immune Cells/T Cell.md",
+    "Immunology/Immune Cells/NK Cell.md",
     "Immunology/Innate Immunity/Antimicrobial Peptides/Alpha2 macroglobulin.md",
-    "Immunology/Cells/Neutrophil.md",
-    "Immunology/Cells/Eosinophil.md",
-    "Immunology/Cells/Basophil.md",
-    "Immunology/Cells/Dendritic Cell.md",
-    "Immunology/Cells/Mast Cell.md",
-    "Immunology/Organs",
-    "Immunology/Cells",
+    "Immunology/Immune Cells/Neutrophil.md",
+    "Immunology/Immune Cells/Eosinophil.md",
+    "Immunology/Immune Cells/Basophil.md",
+    "Immunology/Immune Organs",
+    "Immunology/Immune Cells",
     "Resources/Pasted image 20230901140435.png",
     "Resources/CD59 004.jpg",
     "Resources/Pasted image 20230901125647.png",
@@ -213,7 +227,6 @@
     "Resources/Pasted image 20230901123338.png",
     "Resources/Pasted image 20230901123106.png",
     "Immunology/Innate Immunity/Antimicrobial Peptides",
-    "Immunology/Innate Immunity/Complement System",
-    "Immunology/Innate Immunity"
+    "Immunology/Innate Immunity/Complement System"
   ]
 }
