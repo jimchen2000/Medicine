@@ -13,38 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physiology.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "22805f874d3328af",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Immunology.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c05ea3d33fb18772",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cell.md",
+                "file": "Pathology.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -118,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cell.md",
+                "file": "Pathology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cell.md",
+                "file": "Pathology.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,44 +176,45 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c05ea3d33fb18772",
+  "active": "fec55a8e8199e528",
   "lastOpenFiles": [
-    "Immunology.md",
     "Physiology.md",
-    "Physiology/Cell Physiology/Membrane Transport/Secondary Active Transport.md",
-    "Physiology/Cell Physiology/Membrane Transport/Primary Active Transport.md",
+    "Physiology/Cell Physiology/Osmosis",
+    "Physiology/Cell Physiology/Membrane Potential",
     "Cell.md",
-    "Physiology/Cell Physiology/Membrane Transport/Facilitated Diffusion.md",
-    "Physiology/Cell Physiology/Membrane Transport/Simple Diffusion.md",
-    "Syntax.md",
-    "Microbiology.md",
-    "Pathology.md",
-    "Physiology/Cell Physiology/Signal Transduction/G Protein-Coupled Receptor.md",
+    "Cell/Cell Structures/Cell Membrane.md",
+    "Cell/Cell Structures",
+    "Cell/Cell Structures/Smooth Endoplasmic Reticulum.md",
+    "Cell/Cell Structures/Rough Endoplasmic Reticulum.md",
+    "Cell/Cell Structures/Ribosome.md",
+    "Cell/Cell Structures/Proteosome.md",
+    "Cell/Cell Structures/Peroxisome.md",
+    "Cell/Cell Structures/Nucleus.md",
+    "Cell/Cell Structures/Nucleolus.md",
+    "Cell/Cell Structures/Mitochondria.md",
+    "Cell/Cell Structures/Microtubule.md",
+    "Cell/Cell Structures/Microfilament.md",
+    "Cell/Cell Structures/Lysosome.md",
+    "Cell/Cell Structures/Intermediate Filament.md",
+    "Cell/Cell Structures/Golgi Apparatus.md",
+    "Cell/Cell Structures/Endoplasmic Reticulum.md",
+    "Cell/Cell Structures/Cytoskeleton.md",
+    "Cell/Cell Structures/Cytoplasm.md",
+    "Microtubule.md",
+    "Intermediate Filament.md",
+    "Microfilament.md",
+    "Cytoskeleton.md",
+    "Endoplasmic Reticulum.md",
+    "Proteosome.md",
+    "Peroxisome.md",
     "Physiology/Cell Physiology/Membrane Transport",
-    "Physiology/Cell Physiology/Membrane Transport/Carrier-mediated Transport.md",
-    "Cell/Cell Membrane.md",
     "Cell",
-    "Immunology/Innate Immunity/Phagocytosis.md",
-    "Biochemistry.md",
-    "Physiology/Cell Physiology/Signal Transduction/Phospholipase C Pathway.md",
-    "Physiology/Cell Physiology/Signal Transduction/Adenylyl Cyclase Pathway.md",
     "Physiology/Cell Physiology/Signal Transduction",
     "Physiology/Cell Physiology",
     "Physiology",
-    "Immunology/Innate Immunity/Inflammation.md",
-    "README.md",
-    "README.md.md",
-    "Immunology/Innate Immunity/Phagocytosis/Pattern Recognition Receptor.md",
     "Immunology/Innate Immunity/Phagocytosis",
-    "Immunology/Innate Immunity/Complement System.md",
     "Resources/Pasted image 20230901153748.png",
-    "Immunology/Immune Cells/Macrophage.md",
-    "Immunology/Immune Organs/Spleen.md",
-    "Immunology/Immune Organs/Lymphatic System.md",
     "Immunology/Untitled",
-    "Immunology/Immune Cells/B Cell.md",
-    "Immunology/Immune Organs",
-    "Immunology/Immune Cells",
     "Resources/Pasted image 20230901140435.png",
     "Resources/CD59 004.jpg",
     "Resources/Pasted image 20230901125647.png",
@@ -247,7 +223,6 @@
     "Resources/Pasted image 20230901123440.png",
     "Resources/Pasted image 20230901123417.png",
     "Resources/Pasted image 20230901123338.png",
-    "Resources/Pasted image 20230901123106.png",
-    "Immunology/Innate Immunity/Antimicrobial Peptides"
+    "Resources/Pasted image 20230901123106.png"
   ]
 }
