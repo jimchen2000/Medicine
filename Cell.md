@@ -9,6 +9,7 @@ Sources:
 | Structures        | Contents |
 | ----------------- | -------- |
 | [[Cell Membrane]] |          |
-|                   |          |
+| [[Nucleus]]       |          |
+| [[Rough ]]                  |          |
 
 ## Cell Cycle
