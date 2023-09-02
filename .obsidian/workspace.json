@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physiology/Cell Physiology/Membrane Transport/Primary Active Transport.md",
+                "file": "Physiology/Cell Physiology/Membrane Transport/Secondary Active Transport.md",
                 "mode": "source",
                 "source": false
               }
@@ -26,6 +26,18 @@
               "type": "markdown",
               "state": {
                 "file": "Physiology.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c05ea3d33fb18772",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cell.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physiology/Cell Physiology/Membrane Transport/Primary Active Transport.md",
+                "file": "Physiology/Cell Physiology/Membrane Transport/Secondary Active Transport.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physiology/Cell Physiology/Membrane Transport/Primary Active Transport.md",
+                "file": "Physiology/Cell Physiology/Membrane Transport/Secondary Active Transport.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,14 +194,15 @@
   "active": "fec55a8e8199e528",
   "lastOpenFiles": [
     "Physiology.md",
+    "Physiology/Cell Physiology/Membrane Transport/Secondary Active Transport.md",
+    "Physiology/Cell Physiology/Membrane Transport/Primary Active Transport.md",
+    "Cell.md",
     "Physiology/Cell Physiology/Membrane Transport/Facilitated Diffusion.md",
     "Physiology/Cell Physiology/Membrane Transport/Simple Diffusion.md",
-    "Physiology/Cell Physiology/Membrane Transport/Primary Active Transport.md",
     "Syntax.md",
     "Microbiology.md",
     "Pathology.md",
     "Immunology.md",
-    "Cell.md",
     "Physiology/Cell Physiology/Signal Transduction/G Protein-Coupled Receptor.md",
     "Physiology/Cell Physiology/Membrane Transport",
     "Physiology/Cell Physiology/Membrane Transport/Carrier-mediated Transport.md",
@@ -214,7 +227,6 @@
     "Immunology/Immune Organs/Lymphatic System.md",
     "Immunology/Untitled",
     "Immunology/Immune Cells/B Cell.md",
-    "Immunology/Immune Cells/Plasma Cell.md",
     "Immunology/Immune Organs",
     "Immunology/Immune Cells",
     "Resources/Pasted image 20230901140435.png",
