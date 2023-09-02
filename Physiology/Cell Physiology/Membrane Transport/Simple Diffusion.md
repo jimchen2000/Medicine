@@ -17,3 +17,6 @@ C_2=\text{concentration 2 mmol/L}\end{cases}$$
 1. Oil/Water Partition Coefficient ↑
 2. Radius of Solute ↓
 3. Membrane Thickness ↓
+## Examples
+1. $O_2$
+2. $CO_2$
