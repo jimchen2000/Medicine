@@ -5,3 +5,6 @@ Sources: Physeo
 ---
 # Physiology
 ## Cell Physiology
+### Osmosis
+### Membrane Transport
+### MembranePotential
