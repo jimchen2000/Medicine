@@ -6,24 +6,17 @@ Sources: Physeo, BRS
 # Physiology
 ## Cell Physiology
 
-| Topics              | Contents |
-| ------------------- | -------- |
-| Osmosis             |          |
-| Membrane Transport  |          |
-| Membrane Potential  |          |
-| Membrane Receptor   |          |
-| Signal Transduction |          |
+| Topics              | Contents                                                                                                                                              |
+| ------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Osmosis             |                                                                                                                                                       |
+| Membrane Transport  | [[Simple Diffusion]]<br>[[Facilitated Diffusion]]<br>[[Carrier-mediated Transport]]<br>[[Primary Active Transport]]<br>[[Secondary Active Transport]] |
+| Membrane Potential  |                                                                                                                                                       |
+| Membrane Receptor   |                                                                                                                                                       |
+| Signal Transduction |                                                                                                                                                       |
 
 ### Osmosis
 #### Osmolarity
 #### Osmotic Pressure
-
-### Membrane Transport
-#### Simple Diffusion
-#### Facilitated Diffusion
-#### Carrier-mediated Transport
-#### Primary Active Transport
-#### Secondary Active Transport
 
 ### Membrane Potential
 #### Diffusion Potential
