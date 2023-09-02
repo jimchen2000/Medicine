@@ -25,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physiology/Cell Physiology/Carrier-mediated Transport.md",
+                "file": "Physiology/Cell Physiology/Membrane Transport/Primary Active Transport.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physiology/Cell Physiology/Carrier-mediated Transport.md",
+                "file": "Physiology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physiology/Cell Physiology/Carrier-mediated Transport.md",
+                "file": "Physiology.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,12 +179,16 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "22805f874d3328af",
+  "active": "fec55a8e8199e528",
   "lastOpenFiles": [
+    "Physiology/Cell Physiology/Signal Transduction/G Protein-Coupled Receptor.md",
     "Physiology.md",
-    "Physiology/Cell Physiology/Carrier-mediated Transport.md",
+    "Physiology/Cell Physiology/Membrane Transport/Primary Active Transport.md",
+    "Physiology/Cell Physiology/Membrane Transport/Facilitated Diffusion.md",
+    "Physiology/Cell Physiology/Membrane Transport",
+    "Physiology/Cell Physiology/Membrane Transport/Carrier-mediated Transport.md",
     "Cell.md",
-    "Physiology/Cell Physiology/Simple Diffusion.md",
+    "Physiology/Cell Physiology/Membrane Transport/Simple Diffusion.md",
     "Cell/Cell Membrane.md",
     "Cell",
     "Pathology.md",
@@ -212,9 +215,6 @@
     "Immunology/Immune Cells/B Cell.md",
     "Immunology/Immune Cells/Plasma Cell.md",
     "Immunology/Immune Cells/T Cell.md",
-    "Immunology/Immune Cells/NK Cell.md",
-    "Immunology/Innate Immunity/Antimicrobial Peptides/Alpha2 macroglobulin.md",
-    "Immunology/Immune Cells/Neutrophil.md",
     "Immunology/Immune Organs",
     "Immunology/Immune Cells",
     "Resources/Pasted image 20230901140435.png",
@@ -226,7 +226,6 @@
     "Resources/Pasted image 20230901123417.png",
     "Resources/Pasted image 20230901123338.png",
     "Resources/Pasted image 20230901123106.png",
-    "Immunology/Innate Immunity/Antimicrobial Peptides",
-    "Immunology/Innate Immunity/Complement System"
+    "Immunology/Innate Immunity/Antimicrobial Peptides"
   ]
 }
