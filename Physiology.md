@@ -5,6 +5,22 @@ Sources: Physeo
 ---
 # Physiology
 ## Cell Physiology
+### Cellular membrane
+#### Lipid Bilayer
+#### Proteins
+#### Intercellular Connections
+
 ### Osmosis
+#### Osmolarity
+#### Osmotic Pressure
+
 ### Membrane Transport
-### MembranePotential
+#### Simple Diffusion
+#### Facilitated Diffusion
+#### Carrier-mediated Transport
+#### Primary Active Transport
+#### Secondary Active Transport
+
+### Membrane Potential
+### Membrane Receptor
+### Signal Transduction
