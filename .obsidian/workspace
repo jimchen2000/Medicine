@@ -1,0 +1,142 @@
+{
+  "main": {
+    "id": "bdabc415e99de240",
+    "type": "split",
+    "children": [
+      {
+        "id": "0d35e3160944402d",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Medicine.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ab4a09ba32f31467",
+    "type": "split",
+    "children": [
+      {
+        "id": "69b737d3c44bcece",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f7227be1c755a1b3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "2f545893a34dc1e7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5f7fc217dbd4f27a",
+    "type": "split",
+    "children": [
+      {
+        "id": "91bb5aa5b6ebb79f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6aac9591a116465f",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "472f4fdd937a7b2e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Medicine.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "799197f3c3417b78",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Medicine.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7b7033d84af7e55b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "85dea58f2c57fe66",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "0d35e3160944402d",
+  "lastOpenFiles": [
+    "Syntax.md",
+    "0. Cells and tissues/Cells and tissues.md",
+    "Medicine.md",
+    "0. Cells and tissues/Cells/Physiology.md",
+    "0. Cells and tissues/Cells/Genetics.md",
+    "0. Cells and tissues/Cells/Biochemistry.md",
+    "0. Cells and tissues/Tissues/Pharmacology.md",
+    "0. Cells and tissues/Tissues/Pathology.md",
+    "0. Cells and tissues/Tissues/Histology.md",
+    "10. Reproductive system/Reproductive system.md"
+  ]
+}

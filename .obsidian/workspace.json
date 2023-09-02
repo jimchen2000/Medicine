@@ -1,0 +1,231 @@
+{
+  "main": {
+    "id": "bdabc415e99de240",
+    "type": "split",
+    "children": [
+      {
+        "id": "9534efce0998bbf7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2f1826ad3344c820",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Immunology.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ffba50502f236581",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Immunology/Innate Immunity/Phagocytosis.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ab4a09ba32f31467",
+    "type": "split",
+    "children": [
+      {
+        "id": "69b737d3c44bcece",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f7227be1c755a1b3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2f545893a34dc1e7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fe3809f3ff23c416",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 243.5
+  },
+  "right": {
+    "id": "5f7fc217dbd4f27a",
+    "type": "split",
+    "children": [
+      {
+        "id": "91bb5aa5b6ebb79f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6aac9591a116465f",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "472f4fdd937a7b2e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Immunology.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "799197f3c3417b78",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Immunology.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7b7033d84af7e55b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "85dea58f2c57fe66",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "dbc8d3fc27694859",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b5271f9d04695d02",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "templater-obsidian:Templater": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false
+    }
+  },
+  "active": "2f1826ad3344c820",
+  "lastOpenFiles": [
+    "README.md",
+    "README.md.md",
+    "Immunology.md",
+    "Immunology/Innate Immunity/Inflammation.md",
+    "Immunology/Innate Immunity/Phagocytosis.md",
+    "Immunology/Innate Immunity/Phagocytosis/Pattern Recognition Receptor.md",
+    "Immunology/Innate Immunity/Phagocytosis",
+    "Biochemistry.md",
+    "Immunology/Innate Immunity/Complement System.md",
+    "Resources/Pasted image 20230901153748.png",
+    "Immunology/Cells/Macrophage.md",
+    "Immunology/Organs/Spleen.md",
+    "Immunology/Organs/Lymphatic System.md",
+    "Immunology/Untitled",
+    "Immunology/Cells/B Cell.md",
+    "Immunology/Cells/Plasma Cell.md",
+    "Immunology/Cells/T Cell.md",
+    "Immunology/Cells/NK Cell.md",
+    "Immunology/Innate Immunity/Antimicrobial Peptides/Alpha2 macroglobulin.md",
+    "Immunology/Cells/Neutrophil.md",
+    "Immunology/Cells/Eosinophil.md",
+    "Immunology/Cells/Basophil.md",
+    "Immunology/Cells/Dendritic Cell.md",
+    "Immunology/Cells/Mast Cell.md",
+    "Immunology/Cells/Monocyte.md",
+    "Immunology/Cells/Platelet.md",
+    "Immunology/Cells/Erythrocyte.md",
+    "Immunology/Cells/Myeloid Cell.md",
+    "Immunology/Cells/Lymphoid Cell.md",
+    "Immunology/Organs",
+    "Immunology/Cells",
+    "Resources/Pasted image 20230901140435.png",
+    "Resources/CD59 004.jpg",
+    "Resources/Pasted image 20230901125647.png",
+    "Resources/Pasted image 20230901125626.png",
+    "Resources/Pasted image 20230901125534.png",
+    "Resources/Pasted image 20230901123440.png",
+    "Resources/Pasted image 20230901123417.png",
+    "Resources/Pasted image 20230901123338.png",
+    "Resources/Pasted image 20230901123106.png",
+    "Immunology/Innate Immunity/Antimicrobial Peptides",
+    "Immunology/Innate Immunity/Complement System",
+    "Immunology/Innate Immunity",
+    "Resources",
+    "Microbiology",
+    "Biochemistry"
+  ]
+}

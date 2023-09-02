@@ -1,0 +1,34 @@
+{
+  "settings": {
+    "migrated": true,
+    "iconPacksPath": "plugins/obsidian-icon-folder/icons",
+    "fontSize": 16,
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "🩸",
+      "FasLungs",
+      "FarHeart",
+      "FasBone",
+      "⚤"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraPadding": {
+      "top": 2,
+      "right": 2,
+      "bottom": 2,
+      "left": 2
+    }
+  },
+  "3. Cardiovascular system": "🫀",
+  "1. Bones and joints": "🦴",
+  "5. Nervous system": "🧠",
+  "0. Cells and tissues": "🧫",
+  "4. Lymphatic system": "🛡",
+  "8. Respiratory system": "🫁",
+  "10. Reproductive system": "⚤",
+  "2. Muscles": "💪",
+  "7. Digestive system": "👄",
+  "9. Urinary system": "🚽",
+  "6. Endocrine system": "🩸"
+}
