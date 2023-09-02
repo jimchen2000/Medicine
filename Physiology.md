@@ -14,6 +14,7 @@ Sources: Physeo, BRS
 | Membrane Receptor   |                                                                                                                                                       |
 | Signal Transduction | [[G Protein-Coupled Receptor]]: <br>[[Adenylyl Cyclase Pathway]], <br>[[Phospholipase C Pathway]]                                                     |
 
+## Muscular Physiology
 ## Cardiovascular Physiology
 ## Respiratory Physiology
 ## Renal Physiology

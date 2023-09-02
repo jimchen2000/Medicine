@@ -4,3 +4,5 @@ Aliases:
 Sources: Physeo, BRS
 ---
 # Primary Active Transport
+- Has carrier
+- ATP re
