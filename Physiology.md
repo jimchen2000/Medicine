@@ -29,7 +29,15 @@ Sources: Physeo
 ### Membrane Receptor
 ### Signal Transduction
 #### G Protein-Coupled Receptor
+
+| Pathways                     | Functions |
+| ---------------------------- | --------- |
+| [[Adenylyl Cyclase Pathway]] |           |
+| [[Phospholipase C Pathway]]  |           |
+
 ##### G$\alpha$ Signaling
 ##### G$\beta\gamma$ Signaling
-##### cAMP/PKA Pathway
-##### PIP2/PKC Pathway
+
+## Cardiovascular Physiology
+## Neural physiology
+

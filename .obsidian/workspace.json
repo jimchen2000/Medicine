@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "9534efce0998bbf7",
+        "id": "61789c80c78bc440",
         "type": "tabs",
         "children": [
           {
-            "id": "ffba50502f236581",
+            "id": "22805f874d3328af",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Physiology.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7a86d33e79ded4e6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Biochemistry.md",
                 "mode": "source",
                 "source": false
               }
@@ -181,13 +169,17 @@
   },
   "active": "f7227be1c755a1b3",
   "lastOpenFiles": [
-    "Physiology",
+    "Immunology/Innate Immunity/Phagocytosis.md",
     "Biochemistry.md",
     "Physiology.md",
+    "Physiology/Cell Physiology/Signal Transduction/Phospholipase C Pathway.md",
+    "Physiology/Cell Physiology/Signal Transduction/Adenylyl Cyclase Pathway.md",
+    "Physiology/Cell Physiology/Signal Transduction",
+    "Physiology/Cell Physiology",
+    "Physiology",
     "Syntax.md",
     "Pathology.md",
     "Immunology/Innate Immunity/Inflammation.md",
-    "Immunology/Innate Immunity/Phagocytosis.md",
     "README.md",
     "Immunology.md",
     "README.md.md",
@@ -209,7 +201,6 @@
     "Immunology/Cells/Basophil.md",
     "Immunology/Cells/Dendritic Cell.md",
     "Immunology/Cells/Mast Cell.md",
-    "Immunology/Cells/Monocyte.md",
     "Immunology/Organs",
     "Immunology/Cells",
     "Resources/Pasted image 20230901140435.png",
@@ -223,9 +214,6 @@
     "Resources/Pasted image 20230901123106.png",
     "Immunology/Innate Immunity/Antimicrobial Peptides",
     "Immunology/Innate Immunity/Complement System",
-    "Immunology/Innate Immunity",
-    "Resources",
-    "Microbiology",
-    "Biochemistry"
+    "Immunology/Innate Immunity"
   ]
 }
