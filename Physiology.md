@@ -31,5 +31,5 @@ Sources: Physeo
 #### G Protein-Coupled Receptor
 ##### G$\alpha$ Signaling
 ##### G$\beta\gamma$ Signaling
-##### cAMP Pathway
-##### 
+##### cAMP/PKA Pathway
+##### PIP2/PKC Pathway
