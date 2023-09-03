@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Medicine.md",
+                "file": "Immunology/Innate Immunity/Phagocytosis.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Medicine.md",
+                "file": "Immunology/Innate Immunity/Phagocytosis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Medicine.md",
+                "file": "Immunology/Innate Immunity/Phagocytosis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,10 +179,9 @@
   "active": "fec55a8e8199e528",
   "lastOpenFiles": [
     "Immunology.md",
+    "Medicine.md",
     "Immunology/Innate Immunity/Phagocytosis.md",
-    "Medicine.md",
     "Physiology.md",
-    "Medicine.md",
     "Pathology.md",
     "Microbiology.md",
     "Syntax.md",
