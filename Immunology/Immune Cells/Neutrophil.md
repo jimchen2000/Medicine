@@ -15,12 +15,15 @@ Sources: Janeway
 
 ## [[Phagocytosis]]
 - The main phagocytic killer in the innate immune system
-- Arrive on site 
+- Arrive on the site of infection or [[Inflammation]]
 
 ## Neutrophil Extracellular Traps
 - *abbr.* NETs
 - Fibers that capture pathogens
+- Made while neutrophil is overwhelmed by infection
 
 ## Degranulation
+- Releasing all the stuff in neutrophil granules
+- Including many active antimicrobial toxins
 
 ## Demargination
