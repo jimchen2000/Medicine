@@ -23,7 +23,12 @@ Sources: Janeway
 - Made while neutrophil is overwhelmed by infection
 
 ## Granule
-
+1. Myeloperoxidase (MPO)
+   - blue-green compound
+   - catalyzing oxidative burst and bleach (very toxic to microbes)
+   - target of p-ANCA (anti-MPO antibody)
+2. Elastase
+   - 
 
 ## Degranulation
 - Releasing all the stuff in neutrophil granules
