@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physiology.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "553696a8152d04cc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "README.md.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -189,10 +176,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "553696a8152d04cc",
+  "active": "fec55a8e8199e528",
   "lastOpenFiles": [
-    "Medicine.md",
     "Physiology.md",
+    "Medicine.md",
+    "README.md.md",
     "Pathology.md",
     "Microbiology.md",
     "Syntax.md",
@@ -219,7 +207,6 @@
     "Cell/Cell Structures/Cytoplasm.md",
     "Microtubule.md",
     "Intermediate Filament.md",
-    "Microfilament.md",
     "Physiology/Cell Physiology/Membrane Transport",
     "Cell",
     "Physiology/Cell Physiology/Signal Transduction",
