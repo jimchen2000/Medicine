@@ -30,10 +30,13 @@ Sources: Janeway
 2. Elastase
    - cutting elastin (elastic fiber in the extracellular matrix in tissues)
    - breaking down dead or injured stuff during wound healing and tissue remodeling
-   - Excess of elastase activity in the lung causes [[Emphysema]], 
+   - excess of elastase activity in the lung causes [[Emphysema]], 
      e.g., alpha 1-antitrypsin deficiency
 3. Lysozyme
-   - 
+   - killing bacteria by hydrolyzing the peptidoglycan walls in a hole
+   - located inside the secondary granules
+4. NADPH Oxidase
+   - involving neutrophil oxidative burst
 
 ## Degranulation
 - Releasing all the stuff in neutrophil granules
