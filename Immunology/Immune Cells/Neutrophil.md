@@ -15,15 +15,22 @@ Sources: Janeway
 
 ## [[Phagocytosis]]
 - The main phagocytic killer in the innate immune system
-- Arrive on the site of infection or [[Inflammation]]
+- Arriving on the site of infection or [[Inflammation]]
 
 ## Neutrophil Extracellular Traps
 - *abbr.* NETs
 - Fibers that capture pathogens
 - Made while neutrophil is overwhelmed by infection
 
+## Granule
+
+
 ## Degranulation
 - Releasing all the stuff in neutrophil granules
 - Including many active antimicrobial toxins
 
 ## Demargination
+- Not related to [[inflammation]]
+- Caused by [[corticosteroid]]s
+- Increase in circulating neutrophils following steroids used
+- Margination: Most resting neutrophils are attached to the walls of blood vessels in the liver, spleen, and lungs. 
