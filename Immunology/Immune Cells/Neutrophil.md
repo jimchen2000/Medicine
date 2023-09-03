@@ -28,6 +28,11 @@ Sources: Janeway
    - catalyzing oxidative burst and bleach (very toxic to microbes)
    - target of p-ANCA (anti-MPO antibody)
 2. Elastase
+   - cutting elastin (elastic fiber in the extracellular matrix in tissues)
+   - breaking down dead or injured stuff during wound healing and tissue remodeling
+   - Excess of elastase activity in the lung causes [[Emphysema]], 
+     e.g., alpha 1-antitrypsin deficiency
+3. Lysozyme
    - 
 
 ## Degranulation
