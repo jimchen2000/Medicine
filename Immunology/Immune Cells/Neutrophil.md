@@ -32,6 +32,14 @@ Sources: Janeway
 2. Superoxide: the first reactive compound
    - anti-microbial activity
 3. Superoxide Dismutase SOD
+4. Hydrogen Peroxide
+   - produced by SOD
+   - toxic to microbes
+   - killing pathogens ingested by phagocytosis
+5. Catalase
+   - degrading hydrogen peroxide into water and oxygen
+   - expressed by some bacteria → bacteria survived from oxidative burst
+   - In [[chronic granulomatous disease]], the reactive oxygen species level is already low, and catalase further 
 
 ## Granule
 1. Myeloperoxidase (MPO)
