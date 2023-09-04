@@ -23,7 +23,8 @@ Sources: Janeway
 - Made while neutrophil is overwhelmed by infection
 
 ## Oxidative Burst
-- generating reactive oxidative species toxic to the pathogen
+- Generating reactive oxidative species toxic to the pathogen
+- First catalyzed by NADPH oxidase
 
 ## Granule
 1. Myeloperoxidase (MPO)
