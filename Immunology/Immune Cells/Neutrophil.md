@@ -24,7 +24,14 @@ Sources: Janeway
 
 ## Oxidative Burst
 - Generating reactive oxidative species toxic to the pathogen
-- First catalyzed by NADPH oxidase
+1. First catalyzed by NADPH oxidase
+  - transferring an electron from NADPH to an oxygen molecule
+  - creating a superoxide
+  - defect of this enzyme leads to immunodeficiency
+    e.g., [[Chronic granulomatous disease]] CGD
+2. Superoxide: the first reactive compound
+   - anti-microbial activity
+3. Superoxide Dismutase SOD
 
 ## Granule
 1. Myeloperoxidase (MPO)
