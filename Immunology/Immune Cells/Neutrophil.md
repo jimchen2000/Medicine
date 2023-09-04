@@ -49,7 +49,9 @@ Sources: Janeway
 - Margination: Most resting neutrophils are attached to the walls of blood vessels in the liver, spleen, and lungs. 
 
 ## Oxidative Burst
-$$\text{O}_2$$
+$$\text{O}_2\xrightarrow[\text{oxidase}]{\text{NADPH}}\text{O}_2^-\xrightarrow[]{SOD}\text{H}_2\text{O}_2$$
+$$\text{H}_2\text{O}_2\xrightarrow[]{MPO}\text{HClO}^-$$
+$$\text{H}_2\text{O}_2\xrightarrow[]{Catalase}\text{H}_2\text{O}+\text{O}_2$$
 - Generating reactive oxidative species toxic to the pathogen
 1. First catalyzed by NADPH oxidase
   - transferring an electron from NADPH to an oxygen molecule
