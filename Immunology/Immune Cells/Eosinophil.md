@@ -4,4 +4,6 @@ Aliases:
 Sources: Janeway
 ---
 # Eosinophil
-- bilobate nucleus
+- 2 lobed (bilobate) [[nucleus]]
+- granules inside acidly stained pink
+

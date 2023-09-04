@@ -4,7 +4,7 @@ Aliases:
 Sources: Janeway
 ---
 # Neutrophil
-- 3-5 lobed nuclei
+- 3-5 lobed [[nucleus]]
 - The most abundant polymorphonuclear cell PMN
 - The first cell engaged in [[Inflammation]] ⇒ increase in neutrophil number
 
