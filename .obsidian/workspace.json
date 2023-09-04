@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Immunology/Immune Cells/Neutrophil.md",
+                "file": "Immunology.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 243.5,
-    "collapsed": true
+    "width": 243.5
   },
   "right": {
     "id": "5f7fc217dbd4f27a",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Immunology/Immune Cells/Neutrophil.md",
+                "file": "Immunology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Immunology/Immune Cells/Neutrophil.md",
+                "file": "Immunology.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,27 +167,31 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "templater-obsidian:Templater": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": false,
-      "templater-obsidian:Templater": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
   "active": "fec55a8e8199e528",
   "lastOpenFiles": [
+    "Immunology/Immune Cells/Neutrophil.md",
     "Immunology.md",
-    "Immunology/Innate Immunity/Phagocytosis.md",
+    "Cell.md",
+    "Biochemistry.md",
     "Medicine.md",
+    "Medicine 2.md",
     "Physiology.md",
+    "README.md",
+    "README.md.md",
     "Pathology.md",
     "Microbiology.md",
     "Syntax.md",
     "Physiology/Cell Physiology/Osmosis",
     "Physiology/Cell Physiology/Membrane Potential",
-    "Cell.md",
     "Cell/Cell Structures/Cell Membrane.md",
     "Cell/Cell Structures",
     "Cell/Cell Structures/Smooth Endoplasmic Reticulum.md",
@@ -204,9 +207,6 @@
     "Cell/Cell Structures/Lysosome.md",
     "Cell/Cell Structures/Intermediate Filament.md",
     "Cell/Cell Structures/Golgi Apparatus.md",
-    "Cell/Cell Structures/Endoplasmic Reticulum.md",
-    "Cell/Cell Structures/Cytoskeleton.md",
-    "Cell/Cell Structures/Cytoplasm.md",
     "Physiology/Cell Physiology/Membrane Transport",
     "Cell",
     "Physiology/Cell Physiology/Signal Transduction",
