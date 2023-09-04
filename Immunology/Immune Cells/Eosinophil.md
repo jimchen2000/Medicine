@@ -4,3 +4,4 @@ Aliases:
 Sources: Janeway
 ---
 # Eosinophil
+- bilobate nucleus

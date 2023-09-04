@@ -13,6 +13,18 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Immunology/Immune Cells/Eosinophil.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3ac11e447e1cb4f2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Immunology/Immune Cells/Neutrophil.md",
                 "mode": "source",
                 "source": false
@@ -93,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Immunology/Immune Cells/Neutrophil.md",
+                "file": "Immunology/Immune Cells/Eosinophil.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Immunology/Immune Cells/Neutrophil.md",
+                "file": "Immunology/Immune Cells/Eosinophil.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,9 +190,9 @@
   },
   "active": "fec55a8e8199e528",
   "lastOpenFiles": [
-    "Immunology.md",
     "Immunology/Immune Cells/Neutrophil.md",
     "Immunology/Immune Cells/Eosinophil.md",
+    "Immunology.md",
     "Medicine.md",
     "Physiology.md",
     "Syntax.md",
