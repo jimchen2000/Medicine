@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Immunology/Immune Cells/Macrophage.md",
+                "file": "Immunology/Immune Cells/NK Cell.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Immunology/Immune Cells/Macrophage.md",
+                "file": "Immunology/Immune Cells/NK Cell.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Immunology/Immune Cells/Macrophage.md",
+                "file": "Immunology/Immune Cells/NK Cell.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,6 +190,7 @@
   },
   "active": "fec55a8e8199e528",
   "lastOpenFiles": [
+    "Immunology/Immune Cells/Macrophage.md",
     "Immunology/Immune Cells/NK Cell.md",
     "Immunology.md",
     "Immunology/Immune Cells/Eosinophil.md",
@@ -218,7 +219,6 @@
     "Cell/Cell Structures/Nucleus.md",
     "Cell/Cell Structures/Nucleolus.md",
     "Cell/Cell Structures/Mitochondria.md",
-    "Cell/Cell Structures/Microtubule.md",
     "Physiology/Cell Physiology/Membrane Transport",
     "Cell",
     "Physiology/Cell Physiology/Signal Transduction",
