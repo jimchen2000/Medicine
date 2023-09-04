@@ -7,9 +7,12 @@ Sources: Janeway
 - 2 lobed (bilobate) [[nucleus]]
 - Granules inside acidly stained pink
 - Involved in allergic/anaphylactic (hives) reactions
+   → causing asthma: major basic protein is very toxic to epithelial cells
+
 1. Recruited and stimulated by IL-5
 2. Activated by [[IgG]] or [[IgE]] Fc → Fc receptor → Degranulation
 3. Releasing Major Basic Protein MBP fighting helminths/worms
 
-- Abnormal eosinophils cause vasculitis; e.g., [[Churg-Strauss Syndrome]] (eosinophilic granulomatosis with polyangiitis EPGA): eosinophils are activated at blood vessels and degranulate major basic proteins pose to endothelial cells
-- 
+- Inhibited by [[corticosteroid]]s
+- Abnormal eosinophils cause vasculitis
+  e.g., [[Churg-Strauss Syndrome]] (eosinophilic granulomatosis with polyangiitis EPGA): eosinophils are activated at blood vessels and degranulate major basic proteins to pose damage to endothelial cells

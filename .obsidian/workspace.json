@@ -13,19 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Immunology/Immune Cells/Eosinophil.md",
+                "file": "Immunology/Immune Cells/Basophil.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "74473fef9d2efe62",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.5"
               }
             }
           },
@@ -35,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Immunology/Immune Cells/Neutrophil.md",
+                "file": "Immunology/Immune Cells/Eosinophil.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -116,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Immunology/Immune Cells/Eosinophil.md",
+                "file": "Immunology/Immune Cells/Basophil.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Immunology/Immune Cells/Eosinophil.md",
+                "file": "Immunology/Immune Cells/Basophil.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,10 +188,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "74473fef9d2efe62",
+  "active": "fec55a8e8199e528",
   "lastOpenFiles": [
-    "Immunology/Immune Cells/Neutrophil.md",
     "Immunology/Immune Cells/Eosinophil.md",
+    "Immunology/Immune Cells/Neutrophil.md",
+    "Immunology/Immune Cells/Basophil.md",
     "Immunology.md",
     "Medicine.md",
     "Physiology.md",
@@ -229,7 +219,6 @@
     "Cell/Cell Structures/Mitochondria.md",
     "Cell/Cell Structures/Microtubule.md",
     "Cell/Cell Structures/Microfilament.md",
-    "Cell/Cell Structures/Lysosome.md",
     "Physiology/Cell Physiology/Membrane Transport",
     "Cell",
     "Physiology/Cell Physiology/Signal Transduction",

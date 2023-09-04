@@ -4,3 +4,4 @@ Aliases:
 Sources: Janeway
 ---
 # Basophil
+- Granules inside alkalinely stained blue
