@@ -8,4 +8,5 @@ Sources: Janeway
 
 
 1. Stimulated by **IL-2**
-2. Stimulated by **IL-12** re
+2. Stimulated by **IL-12** released by [[macrophage]]
+3. Stimulated by **interferons**
