@@ -5,7 +5,7 @@ Sources: Janeway
 ---
 # Eosinophil
 - 2 lobed (bilobate) [[nucleus]]
-- Granules inside acidly stained pink
+- Granules inside stained pink in acidic environment
 - Involved in allergic/anaphylactic (hives) reactions
    → causing asthma: major basic protein is very toxic to epithelial cells
 
