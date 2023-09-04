@@ -22,6 +22,9 @@ Sources: Janeway
 - Fibers that capture pathogens
 - Made while neutrophil is overwhelmed by infection
 
+## Oxidative Burst
+- generating reactive oxidative species toxic to the pathogen
+
 ## Granule
 1. Myeloperoxidase (MPO)
    - blue-green compound
