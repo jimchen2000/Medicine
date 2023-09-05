@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Immunology/Innate Immunity/Complement System/Alternative Pathway.md",
+                "file": "Immunology/Innate Immunity/Complement System.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 243.5
+    "width": 243.5,
+    "collapsed": true
   },
   "right": {
     "id": "5f7fc217dbd4f27a",
@@ -106,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Immunology/Innate Immunity/Complement System/Alternative Pathway.md",
+                "file": "Immunology/Innate Immunity/Complement System.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Immunology/Innate Immunity/Complement System/Alternative Pathway.md",
+                "file": "Immunology/Innate Immunity/Complement System.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -191,7 +192,9 @@
   },
   "active": "13024f47dc3ea957",
   "lastOpenFiles": [
+    "Immunology/Innate Immunity/Complement System/Complement Regulation.md",
     "Immunology/Innate Immunity/Complement System.md",
+    "Immunology/Innate Immunity/Complement System/Alternative Pathway.md",
     "Immunology/Innate Immunity/Complement System/Lectin Pathway.md",
     "Immunology/Innate Immunity/Complement System/Classical Pathway.md",
     "Immunology/Innate Immunity/Complement System/Membrane Attack Complex.md",
@@ -199,8 +202,6 @@
     "Immunology/Innate Immunity/Complement System/Opsonization.md",
     "Immunology/Innate Immunity/Complement System/C5 Activation.md",
     "Immunology/Innate Immunity/Complement System/C3 Activation.md",
-    "Immunology/Innate Immunity/Complement System/Complement Regulation.md",
-    "Immunology/Innate Immunity/Complement System/Alternative Pathway.md",
     "Immunology.md",
     "Immunology/Immune Cells/Basophil.md",
     "Immunology/Immune Cells/Eosinophil.md",
