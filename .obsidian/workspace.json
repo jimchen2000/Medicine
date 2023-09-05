@@ -20,24 +20,12 @@
             }
           },
           {
-            "id": "a1b3f749eda8ada5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Immunology/Innate Immunity/Complement System/Alternative Pathway.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "13024f47dc3ea957",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Immunology/Immune Cells/Eosinophil.md",
+                "file": "Immunology/Innate Immunity/Complement System/Alternative Pathway.md",
                 "mode": "source",
                 "source": false
               }
@@ -201,15 +189,24 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a1b3f749eda8ada5",
+  "active": "13024f47dc3ea957",
   "lastOpenFiles": [
     "Immunology/Innate Immunity/Complement System.md",
+    "Immunology/Innate Immunity/Complement System/Lectin Pathway.md",
+    "Immunology/Innate Immunity/Complement System/Classical Pathway.md",
+    "Immunology/Innate Immunity/Complement System/Membrane Attack Complex.md",
+    "Immunology/Innate Immunity/Inflammation.md",
+    "Immunology/Innate Immunity/Complement System/Opsonization.md",
+    "Immunology/Innate Immunity/Complement System/C5 Activation.md",
+    "Immunology/Innate Immunity/Complement System/C3 Activation.md",
+    "Immunology/Innate Immunity/Complement System/Complement Regulation.md",
+    "Immunology/Innate Immunity/Complement System/Alternative Pathway.md",
+    "Immunology.md",
+    "Immunology/Immune Cells/Basophil.md",
+    "Immunology/Immune Cells/Eosinophil.md",
+    "Immunology/Immune Cells/Neutrophil.md",
     "Immunology/Immune Cells/NK Cell.md",
     "Immunology/Immune Cells/Macrophage.md",
-    "Immunology.md",
-    "Immunology/Immune Cells/Eosinophil.md",
-    "Immunology/Immune Cells/Basophil.md",
-    "Immunology/Immune Cells/Neutrophil.md",
     "Medicine.md",
     "Physiology.md",
     "Syntax.md",
@@ -220,18 +217,9 @@
     "README.md",
     "README.md.md",
     "Pathology.md",
-    "Microbiology.md",
     "Physiology/Cell Physiology/Osmosis",
     "Physiology/Cell Physiology/Membrane Potential",
-    "Cell/Cell Structures/Cell Membrane.md",
     "Cell/Cell Structures",
-    "Cell/Cell Structures/Smooth Endoplasmic Reticulum.md",
-    "Cell/Cell Structures/Rough Endoplasmic Reticulum.md",
-    "Cell/Cell Structures/Ribosome.md",
-    "Cell/Cell Structures/Proteosome.md",
-    "Cell/Cell Structures/Peroxisome.md",
-    "Cell/Cell Structures/Nucleus.md",
-    "Cell/Cell Structures/Nucleolus.md",
     "Physiology/Cell Physiology/Membrane Transport",
     "Cell",
     "Physiology/Cell Physiology/Signal Transduction",
