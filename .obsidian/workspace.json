@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Immunology/Immune Cells/NK Cell.md",
+                "file": "Immunology.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Immunology/Immune Cells/NK Cell.md",
+                "file": "Immunology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Immunology/Immune Cells/NK Cell.md",
+                "file": "Immunology.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,6 +179,7 @@
   },
   "active": "fec55a8e8199e528",
   "lastOpenFiles": [
+    "Immunology/Immune Cells/NK Cell.md",
     "Immunology/Innate Immunity/Complement System.md",
     "Immunology/Innate Immunity/Complement System/C5 Activation.md",
     "Immunology/Innate Immunity/Complement System/C3 Activation.md",
@@ -193,7 +194,6 @@
     "Immunology/Immune Cells/Basophil.md",
     "Immunology/Immune Cells/Eosinophil.md",
     "Immunology/Immune Cells/Neutrophil.md",
-    "Immunology/Immune Cells/NK Cell.md",
     "Immunology/Immune Cells/Macrophage.md",
     "Medicine.md",
     "Physiology.md",

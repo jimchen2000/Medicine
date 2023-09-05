@@ -6,10 +6,10 @@ Sources: Janeway, Pixorize
 # Immunology
 ## Cells
 
-| Derivativations   | Derivatives                                                                                                                                                  |
-| ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| [[Myeloid Cell]]  | [[Erythrocyte]]<br>[[Platelet]]<br>[[Mast Cell]]<br>[[Monocyte]]<br>[[Macrophage]]<br>[[Dendritic Cell]]<br>[[Basophil]]<br>[[Eosinophil]]<br>[[Neutrophil]] |
-| [[Lymphoid Cell]] | [[NK Cell]]<br>[[T Cell]]<br>[[B Cell]]<br>[[Plasma Cell]]<br>[[Dendritic Cell]]                                                                             |
+| Derivativations   | Derivatives                                                                                                                                                  | Activation |
+| ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------- |
+| [[Myeloid Cell]]  | [[Erythrocyte]]<br>[[Platelet]]<br>[[Mast Cell]]<br>[[Monocyte]]<br>[[Macrophage]]<br>[[Dendritic Cell]]<br>[[Basophil]]<br>[[Eosinophil]]<br>[[Neutrophil]] | Not done<br>Not done<br>Not done<br>Not done<br>Not done<br>Not done<br>IgE]]<br>[[IL-5]]           |
+| [[Lymphoid Cell]] | [[NK Cell]]<br>[[T Cell]]<br>[[B Cell]]<br>[[Plasma Cell]]<br>[[Dendritic Cell]]                                                                             |            |
 
 ![[Pasted image 20230901125534.png]]
 ### Hematopoiesis
