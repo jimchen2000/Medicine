@@ -7,9 +7,9 @@ Sources: Janeway
 
 | Stages     | Reactions                                                              | Simplified Reactions                                                                         |
 | ---------- | ---------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
-| Initiation | [[Classical Pathway]]<br>[[Lectin Pathway]]<br>[[Alternative Pathway]] | C1→C2+C4→C3<br>MBL→C2+C4→C3<br>C3(H2O)/C3b→B→D→C3(H2O)Bb/C3bBb→P                             |
-| Activation | [[Complement Regulation]]<br>[[C3 Activation]]<br>[[C5 Activation]]    | C3bBb⇤CR1, DAF, H⇤I/C5b678⇤CD59<br>C4b2a→C3a+C3b→H2O, R-OH, R-NH2<br>C4b3a3b, C3b2Bb→C5a+C5b |
-| Function   | [[Opsonization]]<br>[[Inflammation]]<br>[[Membrane Attack Complex]]    | C3b→CR1→C5a receptor<br>C3a+C5a<br>C5b→C5b67→C8→C9                                           |
+| Initiation | [[Classical Pathway]]<br>[[Lectin Pathway]]<br>[[Alternative Pathway]] | **C1**→C2+C4→C3<br>**MBL**/**MASP**→C2+C4→C3<br>C3(H2O)/C3b→**B**→**D**→C3(H2O)Bb/C3bBb→**P**                             |
+| Activation | [[Complement Regulation]]<br>[[C3 Activation]]<br>[[C5 Activation]]    | C3bBb⇤**CR1**, **DAF**, **H**⇤**I**/C5b678⇤**CD59**<br>C4b2a→C3a+C3b→**H2O**, **R-OH**, **R-NH2**<br>**C4b2a3b**, **C3b2Bb**→C5a+C5b |
+| Function   | [[Opsonization]]<br>[[Inflammation]]<br>[[Membrane Attack Complex]]    | C3b→**CR1**→C5a receptor<br>**C3a**+**C5a**<br>**C5b**→C5b67→C8→C9                                           |
 
 ![[Screenshot 2023-08-31 at 15.30.16.png|700]]
 ![[Pasted image 20230831162924.png|700]]
