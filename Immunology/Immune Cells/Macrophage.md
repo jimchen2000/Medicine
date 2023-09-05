@@ -31,7 +31,7 @@ Sources: Janeway
 10. Expressing **CD14**
     → Activation of macrophages
     - a surface receptor for lipopolysaccharides LPS
-    - Gram-negative bacteria → systemic macrophage activation
+    - Gram-negative bacteria → systemic macrophage activation → sepsis
 
 ## Granuloma formation
 ![[Screenshot 2023-09-05 at 12.44.55.png]]
