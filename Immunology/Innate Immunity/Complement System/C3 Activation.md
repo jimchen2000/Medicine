@@ -11,5 +11,5 @@ Sources: Janeway
 	- The exposed thioester bond is a good **nucleophile** (partial or charged negative), so it may react with 
 	  1. **H2O** and generate soluble and inactive C3b
 	  2. **R-OH** or **R-NH2** and generate active C3b on the pathogen surfaces
-- C3a activates [[Inflammation]]
+- C3a activates [[Inflammation]] (**Anaphylatoxin**)
 - C3b activates [[Opsonization]] and [[Membrane Attack Complex]]

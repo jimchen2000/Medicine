@@ -6,11 +6,11 @@ Sources: Janeway, Pixorize
 # Immunology
 ## Proteins
 
-| Classes                   | Proteins                                             |
-| ------------------------- | ---------------------------------------------------- |
-| [[Antimicrobial Peptide]] | [[Lysozyme]]<br>[[Defensin]]<br>[[α2 macroglobulin]] |
-| [[Cytokine]]              |                                                      |
-| [[Antibody]]              |                                                      |
+| Classes                   | Proteins                                                                                                                                                      |
+| ------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Antimicrobial Peptide]] | [[Lysozyme]], [[Defensin]], [[α2 macroglobulin]]                                                                                                              |
+| [[Cytokine]]              | [[IL-1]], [[IL-2]], [[IL-3]], [[IL-4]], [[IL-5]], <br>[[IL-6]], [[IL-8]], [[IL-10]], [[IL-12]], <br>[[IFN α]], [[IFN β]], [[IFN γ]], <br>[[TNF-α]], [[TGF β]] |
+| [[Antibody]]              | [[IgA]], [[IgG]], [[IgM]], [[IgE]], [[IgD]]                                                                                                                   |
 
 ## Cells
 
