@@ -13,6 +13,9 @@ Sources: Janeway
 - Kidney-shaped [[nucleus]]
 - Frosted glass [[cytoplasm]]
 
-1. Activated by **[[IFN γ]]**
-   (produced by [[Th1 cell]])
-2. [[Phagocytosis]]
+1. Activated by **[[IFN γ]]** ← [[Th1 cell]]
+2. **[[Phagocytosis]]**
+3. **Antigen presentation**: [[MHC II]]
+4. Releasing **[[IL-12]]** → [[Th1 cell]]
+5. Releasing **[[IL-1]]** → [[Inflammation]]
+6. Releasing **[[TNF-α]]** → [[Inflammation]]
