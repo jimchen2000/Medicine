@@ -19,3 +19,11 @@ Sources: Janeway
 4. Releasing **[[IL-12]]** → [[Th1 cell]]
 5. Releasing **[[IL-1]]** → [[Inflammation]]
 6. Releasing **[[TNF-α]]** → [[Inflammation]]
+7. Wound repair (promoting cell proliferation and tissue regeneration by [[TGF β]])
+
+## Granuloma formation
+![[Screenshot 2023-09-05 at 12.44.55.png]]
+- Sometimes, the pathogen is really stubborn and hard to eliminate.  
+- The immune system decides to wall off the pathogen and keep it from spreading. 
+- A granuloma is a lesion surrounded by a collar of lymphocytes. 
+- The core of granuloma contains active macrophages. 

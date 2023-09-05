@@ -62,7 +62,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Immunology/Immune Cells/Mast Cell.md",
+                    "file": "Immunology.md",
                     "mode": "source",
                     "source": false
                   }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Immunology/Immune Cells/Mast Cell.md",
+                "file": "Immunology/Immune Cells/Macrophage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Immunology/Immune Cells/Mast Cell.md",
+                "file": "Immunology/Immune Cells/Macrophage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -229,12 +229,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3c0be362b532bbff",
+  "active": "fec55a8e8199e528",
   "lastOpenFiles": [
+    "Resources/Screenshot 2023-09-05 at 12.44.55.png",
     "Immunology.md",
+    "Immunology/Immune Cells/Mast Cell.md",
     "Immunology/Immune Cells/Monocyte.md",
     "Immunology/Immune Cells/Macrophage.md",
-    "Immunology/Immune Cells/Mast Cell.md",
     "Immunology/Immune Cells/Neutrophil.md",
     "Immunology/Immune Cells/NK Cell.md",
     "Physiology.md",
@@ -256,7 +257,6 @@
     "Syntax.md",
     "Immunology/Immune Cells/Oxidative Burst.md",
     "Cell.md",
-    "Biochemistry.md",
     "Physiology/Cell Physiology/Osmosis",
     "Physiology/Cell Physiology/Membrane Potential",
     "Cell/Cell Structures",
