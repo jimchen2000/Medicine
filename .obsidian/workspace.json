@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Immunology/Innate Immunity/Complement System.md",
+                "file": "Immunology.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Immunology/Innate Immunity/Complement System.md",
+                "file": "Immunology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Immunology/Innate Immunity/Complement System.md",
+                "file": "Immunology.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,11 +179,13 @@
   },
   "active": "3c0be362b532bbff",
   "lastOpenFiles": [
-    "Immunology/Innate Immunity/Complement System/Lectin Pathway.md",
+    "Medicine.md",
+    "Immunology.md",
     "Immunology/Innate Immunity/Complement System.md",
+    "Immunology/Innate Immunity/Complement System/Classical Pathway.md",
+    "Immunology/Innate Immunity/Complement System/Lectin Pathway.md",
     "Immunology/Innate Immunity/Complement System/C5 Activation.md",
     "Immunology/Innate Immunity/Complement System/C3 Activation.md",
-    "Immunology.md",
     "Immunology/Myeloid Cell.md",
     "Immunology/Lymphoid Cell.md",
     "Immunology/Antibodies",
@@ -203,7 +205,6 @@
     "Immunology/Immune Cells/Eosinophil.md",
     "Immunology/Innate Immunity/Complement System/Complement Regulation.md",
     "Immunology/Innate Immunity/Complement System/Alternative Pathway.md",
-    "Immunology/Innate Immunity/Complement System/Classical Pathway.md",
     "Immunology/Innate Immunity/Complement System/Membrane Attack Complex.md",
     "Immunology/Innate Immunity/Inflammation.md",
     "Immunology/Innate Immunity/Complement System/Opsonization.md",
