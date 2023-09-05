@@ -20,4 +20,10 @@ Sources: Janeway
    - mediating the synthesis of bradykinin and other inflammatory cytokines to increase blood flow
    - maintaining blood flow in capillaries due to its anti-coagulation
 8. Releasing **eosinophil chemotactic factors**
-   
+   - attracting [[eosinophil]]s
+9. Releasing **tryptase**
+   - a good in-serum indicator of mast cell activation
+10. Contributing to **allergic reactions**/**anaphylaxis**
+    → **Type 1 hypersensitivity reaction**
+11. Contributing to **asthma**
+12. Stabilized by drugs **Cromolyn** and **Nedocromil**

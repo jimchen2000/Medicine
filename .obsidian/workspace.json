@@ -22,7 +22,7 @@
                     "state": {
                       "type": "markdown",
                       "state": {
-                        "file": "Immunology/Immune Cells/Mast Cell.md",
+                        "file": "Immunology/Innate Immunity/Antimicrobial Peptides/α2 macroglobulin.md",
                         "mode": "source",
                         "source": false
                       }
@@ -121,8 +121,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 243.5,
-    "collapsed": true
+    "width": 243.5
   },
   "right": {
     "id": "5f7fc217dbd4f27a",
@@ -146,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Immunology/Immune Cells/Mast Cell.md",
+                "file": "Immunology/Innate Immunity/Antimicrobial Peptides/α2 macroglobulin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Immunology/Immune Cells/Mast Cell.md",
+                "file": "Immunology/Innate Immunity/Antimicrobial Peptides/α2 macroglobulin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -231,9 +230,9 @@
   },
   "active": "fec55a8e8199e528",
   "lastOpenFiles": [
+    "Immunology/Immune Cells/Mast Cell.md",
     "Immunology.md",
     "Immunology/Immune Cells/Basophil.md",
-    "Immunology/Immune Cells/Mast Cell.md",
     "Immunology/Immune Cells/Eosinophil.md",
     "Immunology/Immune Cells/NK Cell.md",
     "Immunology/Innate Immunity/Complement System.md",
