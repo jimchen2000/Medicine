@@ -22,7 +22,7 @@
                     "state": {
                       "type": "markdown",
                       "state": {
-                        "file": "Immunology/Innate Immunity/Antimicrobial Peptides/α2 macroglobulin.md",
+                        "file": "Immunology/Immune Cells/Macrophage.md",
                         "mode": "source",
                         "source": false
                       }
@@ -121,7 +121,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 243.5
+    "width": 243.5,
+    "collapsed": true
   },
   "right": {
     "id": "5f7fc217dbd4f27a",
@@ -145,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Immunology/Innate Immunity/Antimicrobial Peptides/α2 macroglobulin.md",
+                "file": "Immunology/Immune Cells/Macrophage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Immunology/Innate Immunity/Antimicrobial Peptides/α2 macroglobulin.md",
+                "file": "Immunology/Immune Cells/Macrophage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,11 +231,15 @@
   },
   "active": "fec55a8e8199e528",
   "lastOpenFiles": [
-    "Immunology/Immune Cells/Mast Cell.md",
     "Immunology.md",
+    "Immunology/Immune Cells/Mast Cell.md",
+    "Immunology/Immune Cells/Neutrophil.md",
+    "Immunology/Immune Cells/NK Cell.md",
+    "Physiology.md",
+    "Physiology/Cell Physiology/Signal Transduction/G Protein-Coupled Receptor.md",
+    "Immunology/Innate Immunity/Antimicrobial Peptides/α2 macroglobulin.md",
     "Immunology/Immune Cells/Basophil.md",
     "Immunology/Immune Cells/Eosinophil.md",
-    "Immunology/Immune Cells/NK Cell.md",
     "Immunology/Innate Immunity/Complement System.md",
     "Immunology/Innate Immunity/Complement System/C5 Activation.md",
     "Immunology/Innate Immunity/Complement System/C3 Activation.md",
@@ -245,17 +250,13 @@
     "Immunology/Innate Immunity/Complement System/Membrane Attack Complex.md",
     "Immunology/Innate Immunity/Inflammation.md",
     "Immunology/Innate Immunity/Complement System/Opsonization.md",
-    "Immunology/Immune Cells/Neutrophil.md",
     "Immunology/Immune Cells/Macrophage.md",
     "Medicine.md",
-    "Physiology.md",
     "Syntax.md",
     "Immunology/Immune Cells/Oxidative Burst.md",
     "Cell.md",
     "Biochemistry.md",
     "Medicine 2.md",
-    "README.md",
-    "README.md.md",
     "Physiology/Cell Physiology/Osmosis",
     "Physiology/Cell Physiology/Membrane Potential",
     "Cell/Cell Structures",

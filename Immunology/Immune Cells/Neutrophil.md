@@ -10,7 +10,7 @@ Sources: Janeway
 
 ## Attracted by
 1. **C5a** after [[C5 Activation]]
-2. **Leukotriene B4**
+2. **Leukotriene B4** LTB4
 3. **[[IL-8]]**
 
 ## [[Phagocytosis]]

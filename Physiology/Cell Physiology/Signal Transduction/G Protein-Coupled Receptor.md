@@ -7,9 +7,9 @@ Sources:
 
 | Proteins  | Signalings |
 | --------- | ---------- |
-| G$\alpha$ |            |
-| G$\beta$  |            |
-| G$\gamma$ |            |
+| Gα |            |
+| Gβ  |            |
+| Gγ |            |
 
 | Pathways                     | Functions |
 | ---------------------------- | --------- |
