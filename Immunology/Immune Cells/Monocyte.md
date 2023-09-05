@@ -4,3 +4,4 @@ Aliases:
 Sources: Janeway
 ---
 # Monocyte
+- precursor of [[macrophage]]
