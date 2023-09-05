@@ -3,7 +3,7 @@ Created: [[2023-09-01]]
 Aliases: 
 Sources: Janeway
 ---
-# Antimicrobial peptides
+# Antimicrobial peptide
 
 | Peptides                 | Functions                                       |
 | ------------------------ | ----------------------------------------------- |

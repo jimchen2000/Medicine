@@ -50,31 +50,7 @@
       "key": "Backspace"
     }
   ],
-  "table-editor-obsidian:next-cell": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "ArrowRight"
-    }
-  ],
-  "table-editor-obsidian:next-row": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "ArrowDown"
-    }
-  ],
   "obsidian-outliner:unfold": [],
-  "table-editor-obsidian:previous-cell": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "ArrowLeft"
-    }
-  ],
   "window:zoom-in": [
     {
       "modifiers": [

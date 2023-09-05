@@ -4,12 +4,20 @@ Aliases:
 Sources: Janeway, Pixorize
 ---
 # Immunology
+## Proteins
+
+| Classes                   | Proteins                                             |
+| ------------------------- | ---------------------------------------------------- |
+| [[Antimicrobial Peptide]] | [[Lysozyme]]<br>[[Defensin]]<br>[[α2 macroglobulin]] |
+| [[Cytokine]]              |                                                      |
+| [[Antibody]]              |                                                      |
+
 ## Cells
 
-| Derivations       | Derivatives                                                                                                                                                  | Activation                                                                                                                                          |
-| ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[Myeloid Cell]]  | [[Erythrocyte]]<br>[[Platelet]]<br>[[Mast Cell]]<br>[[Monocyte]]<br>[[Macrophage]]<br>[[Dendritic Cell]]<br>[[Basophil]]<br>[[Eosinophil]]<br>[[Neutrophil]] | <br><br>Trauma, [[IgE]], C3a, C5a, Vancomycin<br>[[IFN γ]]<br>[[IFN γ]]<br>Not done<br>[[IgE]]<br>[[IL-5]], [[IgG]], [[IgE]]<br>[[IL-8]], C5a, LTB4 |
-| [[Lymphoid Cell]] | [[NK Cell]]<br>[[T Cell]]<br>[[B Cell]]<br>[[Plasma Cell]]<br>[[Dendritic Cell]]                                                                             | [[IL-2]], [[IL-12]], [[IFN α]], [[IFN β]]<br>Not done<br>Not done<br>Not done<br>Not done                                                           |
+| Derivations       | Derivatives                                                                                                                                                  | Activation                                                                                                                                                      |
+| ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Myeloid Cell]]  | [[Erythrocyte]]<br>[[Platelet]]<br>[[Mast Cell]]<br>[[Monocyte]]<br>[[Macrophage]]<br>[[Dendritic Cell]]<br>[[Basophil]]<br>[[Eosinophil]]<br>[[Neutrophil]] | Not done<br>Not done<br>Trauma, [[IgE]], C3a, C5a, Vancomycin<br>[[IFN γ]]<br>[[IFN γ]]<br>None<br>[[IgE]]<br>[[IL-5]], [[IgG]], [[IgE]]<br>[[IL-8]], C5a, LTB4 |
+| [[Lymphoid Cell]] | [[NK Cell]]<br>[[T Cell]]<br>[[B Cell]]<br>[[Plasma Cell]]<br>[[Dendritic Cell]]                                                                             | [[IL-2]], [[IL-12]], [[IFN α]], [[IFN β]]<br>Not done<br>Not done<br>Not done<br>None                                                                           |
 
 ![[Pasted image 20230901125534.png]]
 ### Hematopoiesis
@@ -38,7 +46,7 @@ Sources: Janeway, Pixorize
 
 | Innate Immunity            | Contents                                                                                                                                                                                                                                                        |
 | -------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[Antimicrobial Peptides]] | [[Lysozyme]]<br>[[Defensin]]<br>[[α2 macroglobulin]]                                                                                                                                                                                                        |
+| [[Antimicrobial Peptide]] | [[Lysozyme]]<br>[[Defensin]]<br>[[α2 macroglobulin]]                                                                                                                                                                                                        |
 | [[Complement System]]      | Initiation:<br>[[Classical Pathway]]<br>[[Lectin Pathway]]<br>[[Alternative Pathway]]<br>Activation:<br>[[Complement Regulation]]<br>[[C3 Activation]]<br>[[C5 Activation]]<br>Function:<br>[[Opsonization]]<br>[[Inflammation]]<br>[[Membrane Attack Complex]] |
 | [[Phagocytosis]]           |                                                                                                                                                                                                                                                                 |
 | [[Inflammation]]                           |                                                                                                                                                                                                                                                                 |

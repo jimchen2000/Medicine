@@ -4,8 +4,9 @@ Aliases:
 Sources: Janeway
 ---
 # Dendritic Cell
+- In the skin, called **[[Langerhans cell]]**
 - Best antigen-presenting cell APC
   - Self-antigen: nothing happened
   - Abnormal antigen: triggers immune response
-- Constitutively express [[MHC II]] and B7
-- 
+- **Birbeck granules**: tennis racket-shaped granules (under EM view)
+- Constitutively express **[[MHC II]]** and **B7**
