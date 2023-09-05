@@ -20,3 +20,6 @@ Sources: Janeway
 7. Attacking **antibody-bound cells**
    (recognized by **CD16** on NK cell)
 8. Releasing **perforin**
+   (poking holes in the [[cell membrane]])
+9. Releasing **granzyme**
+   (inducing [[apoptosis]])

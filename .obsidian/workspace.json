@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Immunology.md",
+                "file": "Immunology/Immune Cells/Mast Cell.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Immunology.md",
+                "file": "Immunology/Immune Cells/Mast Cell.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Immunology.md",
+                "file": "Immunology/Immune Cells/Mast Cell.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,6 +179,8 @@
   },
   "active": "fec55a8e8199e528",
   "lastOpenFiles": [
+    "Immunology.md",
+    "Immunology/Immune Cells/Mast Cell.md",
     "Immunology/Immune Cells/NK Cell.md",
     "Immunology/Innate Immunity/Complement System.md",
     "Immunology/Innate Immunity/Complement System/C5 Activation.md",
@@ -190,7 +192,6 @@
     "Immunology/Innate Immunity/Complement System/Membrane Attack Complex.md",
     "Immunology/Innate Immunity/Inflammation.md",
     "Immunology/Innate Immunity/Complement System/Opsonization.md",
-    "Immunology.md",
     "Immunology/Immune Cells/Basophil.md",
     "Immunology/Immune Cells/Eosinophil.md",
     "Immunology/Immune Cells/Neutrophil.md",
@@ -204,7 +205,6 @@
     "Medicine 2.md",
     "README.md",
     "README.md.md",
-    "Pathology.md",
     "Physiology/Cell Physiology/Osmosis",
     "Physiology/Cell Physiology/Membrane Potential",
     "Cell/Cell Structures",
