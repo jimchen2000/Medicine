@@ -4,3 +4,4 @@ Aliases:
 Sources: Janeway
 ---
 # Dendritic Cell
+- Antigen-presenting cell APC

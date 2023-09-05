@@ -12,6 +12,7 @@ Sources: Janeway
 
 - Kidney-shaped [[nucleus]]
 - Frosted glass [[cytoplasm]]
+- Antigen-presenting cell APC
 
 1. Activated by **[[IFN γ]]** ← [[Th1 cell]]
 2. **[[Phagocytosis]]**
