@@ -10,4 +10,14 @@ Sources: Janeway
 2. Activated by **[[IgE]] aggregation** → Degranulation
 3. Activated by **C3a**
 4. Activated by **C5a**
-5. Activated by **vancomycin** directly
+5. Activated by **vancomycin** directly → Degranulation
+   → Red man syndrome: widespread red rash
+6. Releasing **histamine**
+   - the first compound released
+   - making blood vessels more leaky
+   - dilating the blood vessels to increase local blood flow
+7. Releasing **heparin**
+   - mediating the synthesis of bradykinin and other inflammatory cytokines to increase blood flow
+   - maintaining blood flow in capillaries due to its anti-coagulation
+8. Releasing **eosinophil chemotactic factors**
+   
