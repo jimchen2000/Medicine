@@ -231,12 +231,12 @@
   },
   "active": "fec55a8e8199e528",
   "lastOpenFiles": [
-    "Resources/Screenshot 2023-09-05 at 12.44.55.png",
     "Immunology.md",
+    "Immunology/Immune Cells/Neutrophil.md",
+    "Immunology/Immune Cells/Macrophage.md",
+    "Resources/Screenshot 2023-09-05 at 12.44.55.png",
     "Immunology/Immune Cells/Mast Cell.md",
     "Immunology/Immune Cells/Monocyte.md",
-    "Immunology/Immune Cells/Macrophage.md",
-    "Immunology/Immune Cells/Neutrophil.md",
     "Immunology/Immune Cells/NK Cell.md",
     "Physiology.md",
     "Physiology/Cell Physiology/Signal Transduction/G Protein-Coupled Receptor.md",
@@ -275,7 +275,6 @@
     "Resources/Pasted image 20230901125534.png",
     "Resources/Pasted image 20230901123440.png",
     "Resources/Pasted image 20230901123417.png",
-    "Resources/Pasted image 20230901123338.png",
-    "Resources/Pasted image 20230901123106.png"
+    "Resources/Pasted image 20230901123338.png"
   ]
 }

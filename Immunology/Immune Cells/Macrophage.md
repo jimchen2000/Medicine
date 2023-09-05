@@ -19,7 +19,16 @@ Sources: Janeway
 4. Releasing **[[IL-12]]** → [[Th1 cell]]
 5. Releasing **[[IL-1]]** → [[Inflammation]]
 6. Releasing **[[TNF-α]]** → [[Inflammation]]
-7. Wound repair (promoting cell proliferation and tissue regeneration by [[TGF β]])
+7. Releasing **VEGF** and **[[TGF β]]**
+    → Cell proliferation and Tissue regeneration
+    → Wound repair 
+8. Releasing **Elastase**
+   → Cleaving elastins
+   → Breaking down dead or infected tissues
+   → Helping with tissue remodeling and healing
+9. Releasing **Metalloproteases**
+   → Cleaving proteins in the extracellular matrix
+10. Expressing **CD14**
 
 ## Granuloma formation
 ![[Screenshot 2023-09-05 at 12.44.55.png]]
