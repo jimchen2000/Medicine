@@ -4,47 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "e083a4c9cc103b2e",
-        "type": "split",
+        "id": "247724decbf72fe9",
+        "type": "tabs",
         "children": [
           {
-            "id": "247724decbf72fe9",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "3c0be362b532bbff",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Immunology/Immune Cells/Mast Cell.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
+            "id": "3c0be362b532bbff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Immunology/Cytokine.md",
+                "mode": "source",
+                "source": false
               }
-            ]
-          },
-          {
-            "id": "37b225f953389cb8",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "c2b2e4d0c48a053b",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Immunology/Antibodies/IgE.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ]
+            }
           }
-        ],
-        "direction": "horizontal"
+        ]
       }
     ],
     "direction": "vertical"
@@ -118,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Immunology/Antibodies/IgE.md",
+                "file": "Immunology/Cytokine.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Immunology/Antibodies/IgE.md",
+                "file": "Immunology/Cytokine.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,39 +176,39 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c2b2e4d0c48a053b",
+  "active": "3c0be362b532bbff",
   "lastOpenFiles": [
-    "Immunology/Immune Cells/Mast Cell.md",
     "Immunology.md",
+    "Immunology/Cytokine.md",
     "Immunology/Antibody.md",
+    "Immunology/Antibodies/IgD.md",
     "Immunology/Antibodies/IgE.md",
+    "Immunology/Innate Immunity/Phagocytosis.md",
+    "Immunology/Innate Immunity/Complement System.md",
+    "Immunology/Innate Immunity/Inflammation.md",
+    "Immunology/Immune Cells/NK Cell.md",
+    "Immunology/Immune Cells/Neutrophil.md",
+    "Immunology/Immune Cells/Eosinophil.md",
+    "Immunology/Immune Cells/Basophil.md",
+    "Immunology/Immune Cells/Dendritic Cell.md",
+    "Immunology/Immune Cells/Macrophage.md",
+    "Immunology/Immune Cells/Monocyte.md",
+    "Immunology/Immune Cells/Mast Cell.md",
     "Immunology/Antibodies/IgM.md",
     "Immunology/Antibodies/IgG.md",
     "Immunology/Innate Immunity/Complement System/Opsonization.md",
     "Immunology/Antibodies/IgA.md",
-    "Immunology/Antibodies/IgD.md",
     "README.md",
     "Syntax.md",
     "Cell.md",
     "Cell/Cell Junctions",
     "Cell/Cell Cycles",
     "Medicine.md",
-    "Immunology/Innate Immunity/Complement System.md",
     "Immunology/Innate Immunity/Complement System/Classical Pathway.md",
     "Immunology/Innate Immunity/Complement System/Lectin Pathway.md",
-    "Immunology/Innate Immunity/Complement System/C5 Activation.md",
-    "Immunology/Innate Immunity/Complement System/C3 Activation.md",
-    "Immunology/Myeloid Cell.md",
-    "Immunology/Lymphoid Cell.md",
     "Immunology/Antibodies",
     "Immunology/Cytokines",
-    "Immunology/Antimicrobial Peptide.md",
-    "Immunology/Immune Cells/Dendritic Cell.md",
-    "Immunology/Immune Cells/Monocyte.md",
-    "Immunology/Immune Cells/Macrophage.md",
-    "Immunology/Immune Cells/Neutrophil.md",
     "Resources/Screenshot 2023-09-05 at 12.44.55.png",
-    "Immunology/Immune Cells/NK Cell.md",
     "Physiology/Cell Physiology/Osmosis",
     "Physiology/Cell Physiology/Membrane Potential",
     "Cell/Cell Structures",

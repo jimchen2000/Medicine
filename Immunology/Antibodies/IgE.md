@@ -7,8 +7,8 @@ Sources: Janeway, Pixorize
 ---
 # IgE
 - [[Inflammation]]
-- Allergy/anaphylaxis → [[Type 1 hypersensitivity reaction
-]]
+- Allergy/anaphylaxis→ **[[Type 1 hypersensitivity reaction]]**
+
 1. Attacking Worms/Helminths
    - directly binding to the surface of the worms
    - recognized by [[eosinophil]]s

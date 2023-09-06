@@ -6,3 +6,5 @@ aliases:
 Sources: Janeway, Pixorize
 ---
 # IgD
+- expressed as B-cell receptor
+- functions unclear
