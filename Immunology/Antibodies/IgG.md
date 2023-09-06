@@ -10,5 +10,9 @@ Sources: Janeway, Pixorize
 - Produced by [[B Cell]]
 - Delayed response to antigen ([[IgM]] is immediate response)
 - Passing through placenta
-- [[Opsonization]] for bacteria
-- [[Complement System#Complement Fixation]] ()
+
+1. [[Opsonization]] for bacteria
+   - attracting C1 binds to it and triggering [[Classical Pathway]]
+   - [[IgM]] does better than it
+2. [[Complement System#Complement Fixation]] 
+3. Neutralization of toxins/antigens

@@ -6,3 +6,4 @@ aliases:
 Sources: Janeway, Pixorize
 ---
 # IgM
+- Archetypal immunoglobulin produced
