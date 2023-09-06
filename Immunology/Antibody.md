@@ -14,6 +14,6 @@ Sources: Janeway, Pixorize
 | ----------- | ------------------------------------------------------------------------------------------------------------ |
 | [[IgA]]     | Mucosal immunity                                                                                             |
 | [[IgG]]     | Delayed response<br>1. [[Opsonization]]<br>2. [[Complement System#Complement Fixation]]<br>3. Neutralization |
-| [[IgM]]     | Immediate response                                                                                           |
+| [[IgM]]     | Original type<br>Immediate response<br>1. Class switching<br>2. B cell activation                                                     |
 | [[IgE]]     |                                                                                                              |
 | [[IgD]]     |                                                                                                              |

@@ -4,22 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "247724decbf72fe9",
-        "type": "tabs",
+        "id": "e083a4c9cc103b2e",
+        "type": "split",
         "children": [
           {
-            "id": "3c0be362b532bbff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Immunology/Antibodies/IgM.md",
-                "mode": "source",
-                "source": false
+            "id": "247724decbf72fe9",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "3c0be362b532bbff",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Immunology/Antibody.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
               }
-            }
+            ]
+          },
+          {
+            "id": "37b225f953389cb8",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "1a4aa1361f129ac1",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Immunology/Antibodies/IgM.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -176,12 +201,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3c0be362b532bbff",
+  "active": "1a4aa1361f129ac1",
   "lastOpenFiles": [
     "Immunology/Antibody.md",
     "Immunology/Antibodies/IgM.md",
-    "Immunology.md",
     "Immunology/Antibodies/IgG.md",
+    "Immunology.md",
     "Immunology/Innate Immunity/Complement System/Opsonization.md",
     "Immunology/Antibodies/IgA.md",
     "Immunology/Antibodies/IgD.md",

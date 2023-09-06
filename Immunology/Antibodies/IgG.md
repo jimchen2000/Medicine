@@ -8,7 +8,7 @@ Sources: Janeway, Pixorize
 # IgG
 - The most common antibodies in blood
 - Produced by [[B Cell]]
-- Delayed response to antigen ([[IgM]] is immediate response)
+- Delayed response to antigen
 - Passing through placenta
 
 1. [[Opsonization]] for bacteria
