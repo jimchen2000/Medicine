@@ -1,11 +1,7 @@
 ---
-created: [[2022-06-05]]
-aliases: syntax
-types: Guide
-tags: 
-- syntax
-- markdown
-- obsidian
+Created: [[2023-09-06]]
+Aliases: 
+Sources: 
 ---
 # Heading level 1
 ## Heading level 2

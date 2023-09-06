@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Immunology.md",
+                "file": "Immunology/Antibody.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 243.5,
-    "collapsed": true
+    "width": 243.5
   },
   "right": {
     "id": "5f7fc217dbd4f27a",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Immunology.md",
+                "file": "Immunology/Antibody.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Immunology.md",
+                "file": "Immunology/Antibody.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,9 +178,19 @@
   },
   "active": "3c0be362b532bbff",
   "lastOpenFiles": [
+    "Immunology/Antibodies/IgA.md",
+    "Immunology/Antibody.md",
+    "Immunology/Antibodies/IgD.md",
+    "Immunology/Antibodies/IgE.md",
+    "Immunology/Antibodies/IgG.md",
+    "Immunology/Antibodies/IgM.md",
     "README.md",
-    "Medicine.md",
+    "Syntax.md",
+    "Cell.md",
+    "Cell/Cell Junctions",
     "Immunology.md",
+    "Cell/Cell Cycles",
+    "Medicine.md",
     "Immunology/Innate Immunity/Complement System.md",
     "Immunology/Innate Immunity/Complement System/Classical Pathway.md",
     "Immunology/Innate Immunity/Complement System/Lectin Pathway.md",
@@ -200,22 +209,12 @@
     "Immunology/Immune Cells/Mast Cell.md",
     "Immunology/Immune Cells/NK Cell.md",
     "Physiology.md",
-    "Physiology/Cell Physiology/Signal Transduction/G Protein-Coupled Receptor.md",
-    "Immunology/Antimicrobial Peptides/α2 macroglobulin.md",
-    "Immunology/Immune Cells/Basophil.md",
-    "Immunology/Immune Cells/Eosinophil.md",
-    "Immunology/Innate Immunity/Complement System/Complement Regulation.md",
-    "Immunology/Innate Immunity/Complement System/Alternative Pathway.md",
-    "Immunology/Innate Immunity/Complement System/Membrane Attack Complex.md",
-    "Immunology/Innate Immunity/Inflammation.md",
     "Physiology/Cell Physiology/Osmosis",
     "Physiology/Cell Physiology/Membrane Potential",
     "Cell/Cell Structures",
     "Physiology/Cell Physiology/Membrane Transport",
     "Cell",
     "Physiology/Cell Physiology/Signal Transduction",
-    "Physiology/Cell Physiology",
-    "Physiology",
     "Resources/Pasted image 20230901153748.png",
     "Resources/Pasted image 20230901140435.png",
     "Resources/CD59 004.jpg",
