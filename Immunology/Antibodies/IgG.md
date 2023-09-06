@@ -12,7 +12,7 @@ Sources: Janeway, Pixorize
 - Passing through placenta
 
 1. [[Opsonization]] for bacteria
+2. Neutralization of toxins/antigens
+3. [[Complement System#Complement Fixation]] 
    - attracting C1 binds to it and triggering [[Classical Pathway]]
    - [[IgM]] does better than it
-2. [[Complement System#Complement Fixation]] 
-3. Neutralization of toxins/antigens

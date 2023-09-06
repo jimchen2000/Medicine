@@ -6,9 +6,16 @@ aliases:
 Sources: Janeway, Pixorize
 ---
 # IgM
-- Usually pentameric form
+- Usually in the pentameric form (connected via a J chain)
 - Archetypal (original) immunoglobulin produced by [[B Cell]]s
-- Making up membrane-bound [[B Cell]] receptors
-  - During B cell activation, it binds to the antigen
-- Undergoing class switching to form other types of [[antibody]]
 - Immediate response to antigen
+- Cannot cross the placenta
+
+1. Undergoing class switching to form other types of [[antibody]]
+2. Making up membrane-bound [[B Cell]] receptors
+  - During [[B cell]] activation, it binds to the antigen
+3. [[Complement System#Complement Fixation]]
+   - attracting C1 binds to it and triggering [[Classical Pathway]]
+   - [[IgM]] does better than it
+
+

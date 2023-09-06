@@ -30,12 +30,12 @@
             "type": "tabs",
             "children": [
               {
-                "id": "1a4aa1361f129ac1",
+                "id": "c2b2e4d0c48a053b",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Immunology/Antibodies/IgM.md",
+                    "file": "Immunology/Antibodies/IgE.md",
                     "mode": "source",
                     "source": false
                   }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Immunology/Antibodies/IgM.md",
+                "file": "Immunology/Antibodies/IgE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Immunology/Antibodies/IgM.md",
+                "file": "Immunology/Antibodies/IgE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,16 +201,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1a4aa1361f129ac1",
+  "active": "c2b2e4d0c48a053b",
   "lastOpenFiles": [
     "Immunology/Antibody.md",
     "Immunology/Antibodies/IgM.md",
+    "Immunology/Antibodies/IgE.md",
     "Immunology/Antibodies/IgG.md",
     "Immunology.md",
     "Immunology/Innate Immunity/Complement System/Opsonization.md",
     "Immunology/Antibodies/IgA.md",
     "Immunology/Antibodies/IgD.md",
-    "Immunology/Antibodies/IgE.md",
     "README.md",
     "Syntax.md",
     "Cell.md",
