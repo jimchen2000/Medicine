@@ -23,6 +23,6 @@ Sources: Janeway
 9. Releasing **tryptase**
    - a good in-serum indicator of mast cell activation
 10. Contributing to **allergic reactions**/**anaphylaxis**
-    → **Type 1 hypersensitivity reaction**
+    → **[[Type 1 hypersensitivity reaction]]**
 11. Contributing to **asthma**
 12. Stabilized by drugs **Cromolyn** and **Nedocromil**
