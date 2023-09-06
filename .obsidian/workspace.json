@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Immunology/Antibody.md",
+                "file": "Immunology/Antibodies/IgG.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Immunology/Antibody.md",
+                "file": "Immunology/Antibodies/IgG.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Immunology/Antibody.md",
+                "file": "Immunology/Antibodies/IgG.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,6 +178,7 @@
   },
   "active": "3c0be362b532bbff",
   "lastOpenFiles": [
+    "Immunology.md",
     "Immunology/Antibodies/IgA.md",
     "Immunology/Antibody.md",
     "Immunology/Antibodies/IgD.md",
@@ -188,7 +189,6 @@
     "Syntax.md",
     "Cell.md",
     "Cell/Cell Junctions",
-    "Immunology.md",
     "Cell/Cell Cycles",
     "Medicine.md",
     "Immunology/Innate Immunity/Complement System.md",
