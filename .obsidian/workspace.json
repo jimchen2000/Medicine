@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Immunology/Innate Immunity/Inflammation.md",
+                "file": "Immunology.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Immunology/Innate Immunity/Inflammation.md",
+                "file": "Immunology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Immunology/Innate Immunity/Inflammation.md",
+                "file": "Immunology.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -191,7 +191,11 @@
   },
   "active": "e12d3417df6e9e47",
   "lastOpenFiles": [
+    "Immunology/Innate Immunity/Complement System.md",
+    "Immunology/Innate Immunity/Complement System/Alternative Pathway.md",
+    "Immunology/Innate Immunity/Complement System/Classical Pathway.md",
     "Immunology.md",
+    "Medicine.md",
     "Immunology/Innate Immunity/Inflammation.md",
     "Immunology/Innate Immunity/Phagocytosis.md",
     "Immunology/Receptors",
@@ -199,7 +203,6 @@
     "Immunology/Antibody.md",
     "Immunology/Antibodies/IgD.md",
     "Immunology/Antibodies/IgE.md",
-    "Immunology/Innate Immunity/Complement System.md",
     "Immunology/Immune Cells/NK Cell.md",
     "Immunology/Immune Cells/Neutrophil.md",
     "Immunology/Immune Cells/Eosinophil.md",
@@ -217,8 +220,6 @@
     "Cell.md",
     "Cell/Cell Junctions",
     "Cell/Cell Cycles",
-    "Medicine.md",
-    "Immunology/Innate Immunity/Complement System/Classical Pathway.md",
     "Immunology/Antibodies",
     "Immunology/Cytokines",
     "Resources/Screenshot 2023-09-05 at 12.44.55.png",
