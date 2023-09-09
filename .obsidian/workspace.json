@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Immunology.md",
+                "file": "Immunology/Innate Immunity/Inflammation.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Immunology.md",
+                "file": "Immunology/Innate Immunity/Inflammation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Immunology.md",
+                "file": "Immunology/Innate Immunity/Inflammation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -191,15 +191,15 @@
   },
   "active": "e12d3417df6e9e47",
   "lastOpenFiles": [
+    "Immunology.md",
+    "Immunology/Innate Immunity/Inflammation.md",
     "Immunology/Innate Immunity/Phagocytosis.md",
     "Immunology/Receptors",
-    "Immunology.md",
     "Immunology/Cytokine.md",
     "Immunology/Antibody.md",
     "Immunology/Antibodies/IgD.md",
     "Immunology/Antibodies/IgE.md",
     "Immunology/Innate Immunity/Complement System.md",
-    "Immunology/Innate Immunity/Inflammation.md",
     "Immunology/Immune Cells/NK Cell.md",
     "Immunology/Immune Cells/Neutrophil.md",
     "Immunology/Immune Cells/Eosinophil.md",
