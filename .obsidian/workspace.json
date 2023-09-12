@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pathology/Cellular Pathology/Hypertrophy.md",
+                "file": "Pathology.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pathology/Cellular Pathology/Hypertrophy.md",
+                "file": "Pathology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pathology/Cellular Pathology/Hypertrophy.md",
+                "file": "Pathology.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -191,9 +191,15 @@
   },
   "active": "e12d3417df6e9e47",
   "lastOpenFiles": [
+    "Pathology/Cellular Pathology/Adaptation/Aplasia.md",
     "Pathology.md",
+    "Pathology/Cellular Pathology/Adaptation/Metaplasia.md",
+    "Pathology/Cellular Pathology/Adaptation/Dysplasia.md",
+    "Pathology/Cellular Pathology/Adaptation/Atrophy.md",
+    "Pathology/Cellular Pathology/Adaptation",
+    "Pathology/Cellular Pathology/Adaptation/Hypertrophy.md",
+    "Pathology/Cellular Pathology/Adaptation/Hyperplasia.md",
     "Immunology/Innate Immunity/Phagocytosis.md",
-    "Pathology/Cellular Pathology/Hypertrophy.md",
     "Pathology/Cellular Pathology",
     "Resources/Screenshot 2023-09-12 at 14.48.46.png",
     "Resources/Screenshot 2023-09-12 at 14.46.06.png",
@@ -216,11 +222,6 @@
     "Immunology/Immune Cells/Macrophage.md",
     "Immunology/Immune Cells/Monocyte.md",
     "Immunology/Immune Cells/Mast Cell.md",
-    "Immunology/Antibodies/IgM.md",
-    "Immunology/Antibodies/IgG.md",
-    "Immunology/Innate Immunity/Complement System/Opsonization.md",
-    "Immunology/Antibodies/IgA.md",
-    "README.md",
     "Cell/Cell Junctions",
     "Cell/Cell Cycles",
     "Immunology/Antibodies",
@@ -229,7 +230,6 @@
     "Physiology/Cell Physiology/Osmosis",
     "Physiology/Cell Physiology/Membrane Potential",
     "Cell/Cell Structures",
-    "Physiology/Cell Physiology/Membrane Transport",
     "Resources/Pasted image 20230901153748.png",
     "Resources/Pasted image 20230901140435.png",
     "Resources/CD59 004.jpg",
