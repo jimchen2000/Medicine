@@ -6,7 +6,7 @@ Sources:
 # Pathology
 ## Cellular Pathology
 ### Growth Adaptation
-- Stress increases → organ size increases
+- Stress increases/decreases → organ size increases/decreases
 - Permanent tissues only undergo hypertrophy
   1. Cardiac myocytes
   2. Skeletal muscles
@@ -14,9 +14,14 @@ Sources:
 #### Hyperplasia
 - Via the increase in the **number** of cells
 - Involving the production of new cells from stem cells
+- Pathologic hyperplasia can progress to dysplasia and cancer
+  1. Endometrial hyperplasia → endometrial carcinoma
+  2. Benign prostatic hyperplasia
 #### Hypertrophy
 - Via the increase in the **size** of cells
 - Involving gene activation, protein synthesis, and production of organelles
+#### Atrophy
+- Via the decrease in the size ac
 ## Musculoskeletal Pathology
 ## Hematopathology
 ## Cardiac Pathology
