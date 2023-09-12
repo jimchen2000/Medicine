@@ -31,9 +31,12 @@ Sources:
 - Changes in **stress** → changes in **cell type**
 - Mostly involving the surface epithelium
 - Metaplastic cells are better able to handle new stress
-- Occurs via reprogramming of stem cells
-- Reversible with 
+- Occurs via **reprogramming** of stem cells
+- **Reversible** with the removal of the driving stressor
+- Metaplasia can progress to dysplasia and cancer
+- [[Vitamin A]] deficiency can result in metaplasia (keratomalacia)
 1. Barrett's esophagus (epithelium in esophagus: squamous → columnar)
+2. Apocrine metaplasia ↛ breast cancer
 ## Musculoskeletal Pathology
 ## Hematopathology
 ## Cardiac Pathology
