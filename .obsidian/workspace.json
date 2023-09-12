@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Immunology/Innate Immunity/Phagocytosis.md",
+                "file": "Pathology.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pathology.md",
+                "file": "Pathology/Cellular Pathology/Hypertrophy.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "5f7fc217dbd4f27a",
@@ -107,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pathology.md",
+                "file": "Pathology/Cellular Pathology/Hypertrophy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pathology.md",
+                "file": "Pathology/Cellular Pathology/Hypertrophy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,16 +191,18 @@
   },
   "active": "e12d3417df6e9e47",
   "lastOpenFiles": [
+    "Pathology.md",
+    "Immunology/Innate Immunity/Phagocytosis.md",
+    "Pathology/Cellular Pathology/Hypertrophy.md",
+    "Pathology/Cellular Pathology",
     "Resources/Screenshot 2023-09-12 at 14.48.46.png",
     "Resources/Screenshot 2023-09-12 at 14.46.06.png",
     "Immunology.md",
-    "Pathology.md",
     "Immunology/Innate Immunity/Complement System.md",
     "Immunology/Innate Immunity/Complement System/Alternative Pathway.md",
     "Immunology/Innate Immunity/Complement System/Classical Pathway.md",
     "Medicine.md",
     "Immunology/Innate Immunity/Inflammation.md",
-    "Immunology/Innate Immunity/Phagocytosis.md",
     "Immunology/Receptors",
     "Immunology/Cytokine.md",
     "Immunology/Antibody.md",
@@ -229,14 +230,12 @@
     "Physiology/Cell Physiology/Membrane Potential",
     "Cell/Cell Structures",
     "Physiology/Cell Physiology/Membrane Transport",
-    "Cell",
     "Resources/Pasted image 20230901153748.png",
     "Resources/Pasted image 20230901140435.png",
     "Resources/CD59 004.jpg",
     "Resources/Pasted image 20230901125647.png",
     "Resources/Pasted image 20230901125626.png",
     "Resources/Pasted image 20230901125534.png",
-    "Resources/Pasted image 20230901123440.png",
-    "Resources/Pasted image 20230901123417.png"
+    "Resources/Pasted image 20230901123440.png"
   ]
 }

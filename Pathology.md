@@ -1,7 +1,8 @@
 ---
-Created: [[2023-08-25]]
-Aliases: 
-Sources: 
+Created:
+  - - 2023-08-25
+aliases: []
+Sources: Pathoma
 ---
 # Pathology
 ## Cellular Pathology
@@ -11,6 +12,12 @@ Sources:
   1. Cardiac myocytes
   2. Skeletal muscles
   3. Nerves
+
+| Adaptation      |     |
+| --------------- | --- |
+| [[Hypertrophy]] |     |
+|                 |     |
+
 #### Hyperplasia
 - Via the increase in the **number** of cells
 - Involving the production of new cells from stem cells
@@ -54,6 +61,8 @@ Sources:
 - Results in a relatively small organ
 1. Streak ovary in Turner syndrome
 ### Cellular Injury
+- Occurs when stress exceeds the cell's ability to adapt
+- Depends on the type of stress, severity, and type of cell adapted
 ## Musculoskeletal Pathology
 ## Hematopathology
 ## Cardiac Pathology
