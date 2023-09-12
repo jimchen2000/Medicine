@@ -21,7 +21,12 @@ Sources:
 - Via the increase in the **size** of cells
 - Involving gene activation, protein synthesis, and production of organelles
 #### Atrophy
-- Via the decrease in the size ac
+- Via the decrease in the size and number of cells
+- Decrease in cell number: occurs via [[apoptosis]]
+- Decrease in cell size: 
+  1. **Ubiquitin-proteosome degradation** of the [[cytoskeleton]]
+  2. [[Autophagy]] of cellular components
+
 ## Musculoskeletal Pathology
 ## Hematopathology
 ## Cardiac Pathology
