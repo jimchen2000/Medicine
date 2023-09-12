@@ -26,7 +26,9 @@ Sources:
 - Decrease in cell size: 
   1. **Ubiquitin-proteosome degradation** of the [[cytoskeleton]]
   2. [[Autophagy]] of cellular components
-
+#### Metaplasia
+- Changes in stress → changes in cell type
+- 
 ## Musculoskeletal Pathology
 ## Hematopathology
 ## Cardiac Pathology
