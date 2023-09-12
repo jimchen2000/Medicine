@@ -42,7 +42,17 @@ Sources:
 2. Apocrine metaplasia ↛ breast cancer
 #### Dysplasia
 - Disordered cellular growth
-- Refers to proliferation of precancerous cells (CIN)
+- Refers to the proliferation of precancerous cells (CIN)
+- Arises from longstanding pathologic hyperplasia or metaplasia
+- **Reversible** with alleviation of inciting stress
+- If stress persists, dysplasia progresses to **carcinoma**
+#### Aplasia
+- Failure of cell production during embryogenesis
+1. Unilateral renal agenesis
+#### Hypoplasia
+- Decrease in cell production during embryogenesis
+- Results in a relatively small organ
+1. Streak ovary in Turner syndrome
 ## Musculoskeletal Pathology
 ## Hematopathology
 ## Cardiac Pathology
