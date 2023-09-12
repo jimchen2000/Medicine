@@ -22,13 +22,18 @@ Sources:
 - Involving gene activation, protein synthesis, and production of organelles
 #### Atrophy
 - Via the decrease in the size and number of cells
-- Decrease in cell number: occurs via [[apoptosis]]
+- Decrease in cell number: 
+  1. Occurs via [[apoptosis]]
 - Decrease in cell size: 
   1. **Ubiquitin-proteosome degradation** of the [[cytoskeleton]]
   2. [[Autophagy]] of cellular components
 #### Metaplasia
-- Changes in stress → changes in cell type
-- 
+- Changes in **stress** → changes in **cell type**
+- Mostly involving the surface epithelium
+- Metaplastic cells are better able to handle new stress
+- Occurs via reprogramming of stem cells
+- Reversible with 
+1. Barrett's esophagus (epithelium in esophagus: squamous → columnar)
 ## Musculoskeletal Pathology
 ## Hematopathology
 ## Cardiac Pathology
