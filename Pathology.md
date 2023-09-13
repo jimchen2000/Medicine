@@ -31,6 +31,7 @@ Sources: Pathoma
 ### Cellular Injury
 - Occurs when stress exceeds the cell's ability to adapt
 - Depends on the type of stress, severity, and type of cell adapted
+
 ## Musculoskeletal Pathology
 ## Hematopathology
 ## Cardiac Pathology
