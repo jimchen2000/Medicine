@@ -4,23 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "247724decbf72fe9",
+        "id": "515786abab241d75",
         "type": "tabs",
         "children": [
           {
-            "id": "3c0be362b532bbff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pathology.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e12d3417df6e9e47",
+            "id": "c9b09edab692abe9",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -31,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -189,18 +176,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e12d3417df6e9e47",
+  "active": "c9b09edab692abe9",
   "lastOpenFiles": [
-    "Pathology/Cellular Pathology/Adaptation/Aplasia.md",
+    "Pathology/Cellular Pathology/Adaptation/Hypoplasia.md",
     "Pathology.md",
     "Pathology/Cellular Pathology/Adaptation/Metaplasia.md",
-    "Pathology/Cellular Pathology/Adaptation/Dysplasia.md",
-    "Pathology/Cellular Pathology/Adaptation/Atrophy.md",
-    "Pathology/Cellular Pathology/Adaptation",
     "Pathology/Cellular Pathology/Adaptation/Hypertrophy.md",
     "Pathology/Cellular Pathology/Adaptation/Hyperplasia.md",
-    "Immunology/Innate Immunity/Phagocytosis.md",
+    "Pathology/Cellular Pathology/Adaptation/Dysplasia.md",
+    "Pathology/Cellular Pathology/Adaptation/Atrophy.md",
+    "Pathology/Cellular Pathology/Adaptation/Aplasia.md",
+    "Pathology/Cellular Pathology/Adaptation",
     "Pathology/Cellular Pathology",
+    "Immunology/Innate Immunity/Phagocytosis.md",
     "Resources/Screenshot 2023-09-12 at 14.48.46.png",
     "Resources/Screenshot 2023-09-12 at 14.46.06.png",
     "Immunology.md",
@@ -221,7 +209,6 @@
     "Immunology/Immune Cells/Dendritic Cell.md",
     "Immunology/Immune Cells/Macrophage.md",
     "Immunology/Immune Cells/Monocyte.md",
-    "Immunology/Immune Cells/Mast Cell.md",
     "Cell/Cell Junctions",
     "Cell/Cell Cycles",
     "Immunology/Antibodies",

@@ -20,14 +20,10 @@ Sources: Pathoma
 | [[Atrophy]]     |     |
 | [[Metaplasia]]  |     |
 | [[Dysplasia]]   |     |
-| [[Aplasia]]                |     |
+| [[Aplasia]]     |     |
+| [[Hypoplasia]]  |     |
 
 
-
-#### Hypoplasia
-- Decrease in cell production during embryogenesis
-- Results in a relatively small organ
-1. Streak ovary in Turner syndrome
 ### Cellular Injury
 - Occurs when stress exceeds the cell's ability to adapt
 - Depends on the type of stress, severity, and type of cell adapted
