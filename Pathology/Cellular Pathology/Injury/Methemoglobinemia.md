@@ -9,4 +9,4 @@ Sources: Pathoma
 - PaO2 normal, SaO2 decreased
 - Seen with oxidant stress or in newborns
 - Classic finding is cyanosis with chocolate-colored blood
-- Treatment 
+- Treatment is IV methylene blue which helps reduce Fe3+ back to Fe2+
