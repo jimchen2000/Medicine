@@ -36,7 +36,7 @@ Sources: Pathoma
 | Genetic mutation                 |
 
 ### Cell Death
-- Morphologic hallmark is **loss of [[n**
+- Morphologic hallmark is **loss of the [[nucleus]]**
 - Occurs via pyknosis, karyorrhexis, and karyolysis
 - 
 
