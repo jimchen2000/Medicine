@@ -38,7 +38,11 @@ Sources: Pathoma
 ### Cell Death
 - Morphologic hallmark is **loss of the [[nucleus]]**
 - Occurs via pyknosis, karyorrhexis, and karyolysis
-- 
+
+| Mechanism     |
+| ------------- |
+| [[Necrosis]]  |
+| [[Apoptosis]] |
 
 ## Musculoskeletal Pathology
 ## Hematopathology

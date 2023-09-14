@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pathology.md",
+                "file": "Pathology/Cellular Pathology/Death/Necrosis.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pathology.md",
+                "file": "Pathology/Cellular Pathology/Death/Necrosis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pathology.md",
+                "file": "Pathology/Cellular Pathology/Death/Necrosis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -178,6 +179,9 @@
   },
   "active": "c9b09edab692abe9",
   "lastOpenFiles": [
+    "Pathology.md",
+    "Pathology/Cellular Pathology/Death/Necrosis.md",
+    "Pathology/Cellular Pathology/Death",
     "Pathology/Cellular Pathology/Injury/Hypoxia.md",
     "Pathology/Cellular Pathology/Injury/Methemoglobinemia.md",
     "Pathology/Cellular Pathology/Injury/CO Poisoning.md",
@@ -185,7 +189,6 @@
     "Pathology/Cellular Pathology/Injury/Hypoxemia.md",
     "Resources/1-s2.0-S0195561608000636-gr1.jpg",
     "Pathology/Cellular Pathology/Injury/Ischemia.md",
-    "Pathology.md",
     "Pathology/Cellular Pathology/Injury",
     "Pathology/Cellular Pathology/Adaptation/Hypoplasia.md",
     "Pathology/Cellular Pathology/Adaptation/Metaplasia.md",
@@ -210,14 +213,12 @@
     "Immunology/Antibody.md",
     "Immunology/Antibodies/IgD.md",
     "Immunology/Antibodies/IgE.md",
-    "Immunology/Immune Cells/NK Cell.md",
     "Cell/Cell Junctions",
     "Cell/Cell Cycles",
     "Immunology/Antibodies",
     "Immunology/Cytokines",
     "Resources/Screenshot 2023-09-05 at 12.44.55.png",
     "Physiology/Cell Physiology/Osmosis",
-    "Physiology/Cell Physiology/Membrane Potential",
     "Resources/Pasted image 20230901153748.png",
     "Resources/Pasted image 20230901140435.png",
     "Resources/CD59 004.jpg",
