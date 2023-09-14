@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pathology.md",
+                "file": "Pathology/Cellular Pathology/Injury/Hypoxia.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pathology.md",
+                "file": "Pathology/Cellular Pathology/Injury/Hypoxia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pathology.md",
+                "file": "Pathology/Cellular Pathology/Injury/Hypoxia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,11 +176,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f7227be1c755a1b3",
+  "active": "c9b09edab692abe9",
   "lastOpenFiles": [
+    "Pathology.md",
+    "Pathology/Cellular Pathology/Injury/Hypoxia.md",
     "Pathology/Cellular Pathology/Injury",
     "Pathology/Cellular Pathology/Adaptation/Hypoplasia.md",
-    "Pathology.md",
     "Pathology/Cellular Pathology/Adaptation/Metaplasia.md",
     "Pathology/Cellular Pathology/Adaptation/Hypertrophy.md",
     "Pathology/Cellular Pathology/Adaptation/Hyperplasia.md",
@@ -216,7 +217,6 @@
     "Resources/Screenshot 2023-09-05 at 12.44.55.png",
     "Physiology/Cell Physiology/Osmosis",
     "Physiology/Cell Physiology/Membrane Potential",
-    "Cell/Cell Structures",
     "Resources/Pasted image 20230901153748.png",
     "Resources/Pasted image 20230901140435.png",
     "Resources/CD59 004.jpg",

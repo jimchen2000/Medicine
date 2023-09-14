@@ -27,6 +27,13 @@ Sources: Pathoma
 - Occurs when stress exceeds the cell's ability to adapt
 - Depends on the type of stress, severity, and type of cell adapted
 
+| Cause                            |
+| -------------------------------- |
+| [[Inflammation]]                 |
+| Nutritional excess or deficiency |
+| [[Hypoxia]]                      |
+| Trauma                           |
+| Genetic mutation                 |
 
 ## Musculoskeletal Pathology
 ## Hematopathology
