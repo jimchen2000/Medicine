@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pathology/Cellular Pathology/Injury/CO Poisoning.md",
+                "file": "Pathology/Cellular Pathology/Injury/Methemoglobinemia.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pathology/Cellular Pathology/Injury/CO Poisoning.md",
+                "file": "Pathology/Cellular Pathology/Injury/Methemoglobinemia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pathology/Cellular Pathology/Injury/CO Poisoning.md",
+                "file": "Pathology/Cellular Pathology/Injury/Methemoglobinemia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,6 +180,7 @@
   "active": "c9b09edab692abe9",
   "lastOpenFiles": [
     "Pathology/Cellular Pathology/Injury/Hypoxia.md",
+    "Pathology/Cellular Pathology/Injury/Methemoglobinemia.md",
     "Pathology/Cellular Pathology/Injury/CO Poisoning.md",
     "Pathology/Cellular Pathology/Injury/Anemia.md",
     "Pathology/Cellular Pathology/Injury/Hypoxemia.md",
@@ -211,7 +212,6 @@
     "Immunology/Antibodies/IgD.md",
     "Immunology/Antibodies/IgE.md",
     "Immunology/Immune Cells/NK Cell.md",
-    "Immunology/Immune Cells/Neutrophil.md",
     "Cell/Cell Junctions",
     "Cell/Cell Cycles",
     "Immunology/Antibodies",

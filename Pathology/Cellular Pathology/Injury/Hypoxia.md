@@ -6,12 +6,13 @@ Sources: Pathoma
 ---
 # Hypoxia
 
-| Cause            |
-| ---------------- |
-| [[Ischemia]]     |
-| [[Hypoxemia]]    |
-| [[Anemia]]       |
-| [[CO Poisoning]] |
+| Cause                 |
+| --------------------- |
+| [[Ischemia]]          |
+| [[Hypoxemia]]         |
+| [[Anemia]]            |
+| [[CO Poisoning]]      |
+| [[Methemoglobinemia]] |
 
 - Low oxygen delivery to tissue
 - 
