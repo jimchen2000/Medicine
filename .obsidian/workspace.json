@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pathology/Cellular Pathology/Injury/Hypoxia.md",
+                "file": "Pathology/Cellular Pathology/Injury/Anemia.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pathology/Cellular Pathology/Injury/Hypoxia.md",
+                "file": "Pathology/Cellular Pathology/Injury/Anemia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pathology/Cellular Pathology/Injury/Hypoxia.md",
+                "file": "Pathology/Cellular Pathology/Injury/Anemia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,9 +178,10 @@
   },
   "active": "c9b09edab692abe9",
   "lastOpenFiles": [
+    "Pathology/Cellular Pathology/Injury/Hypoxia.md",
+    "Pathology/Cellular Pathology/Injury/Anemia.md",
     "Pathology/Cellular Pathology/Injury/Hypoxemia.md",
     "Resources/1-s2.0-S0195561608000636-gr1.jpg",
-    "Pathology/Cellular Pathology/Injury/Hypoxia.md",
     "Pathology/Cellular Pathology/Injury/Ischemia.md",
     "Pathology.md",
     "Pathology/Cellular Pathology/Injury",
