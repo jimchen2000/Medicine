@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pathology/Cellular Pathology/Injury/Hypoxia.md",
+                "file": "Pathology/Cellular Pathology/Injury/Hypoxemia.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pathology/Cellular Pathology/Injury/Hypoxia.md",
+                "file": "Pathology/Cellular Pathology/Injury/Hypoxemia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pathology/Cellular Pathology/Injury/Hypoxia.md",
+                "file": "Pathology/Cellular Pathology/Injury/Hypoxemia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,8 +178,10 @@
   },
   "active": "c9b09edab692abe9",
   "lastOpenFiles": [
-    "Pathology.md",
     "Pathology/Cellular Pathology/Injury/Hypoxia.md",
+    "Pathology/Cellular Pathology/Injury/Hypoxemia.md",
+    "Pathology/Cellular Pathology/Injury/Ischemia.md",
+    "Pathology.md",
     "Pathology/Cellular Pathology/Injury",
     "Pathology/Cellular Pathology/Adaptation/Hypoplasia.md",
     "Pathology/Cellular Pathology/Adaptation/Metaplasia.md",
@@ -208,8 +210,6 @@
     "Immunology/Immune Cells/Neutrophil.md",
     "Immunology/Immune Cells/Eosinophil.md",
     "Immunology/Immune Cells/Basophil.md",
-    "Immunology/Immune Cells/Dendritic Cell.md",
-    "Immunology/Immune Cells/Macrophage.md",
     "Cell/Cell Junctions",
     "Cell/Cell Cycles",
     "Immunology/Antibodies",

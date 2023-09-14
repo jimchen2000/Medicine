@@ -5,4 +5,12 @@ aliases: []
 Sources: Pathoma
 ---
 # Hypoxia
-- L
+
+| Cause                  |
+| ---------------------- |
+| [[Ischemia]]           |
+| [[Hypoxemia]]          |
+| Decreased blood oxygen |
+
+- Low oxygen delivery to tissue
+- 
