@@ -25,4 +25,4 @@ Sources: Pathoma
   - Hallmark is cellular swelling
   - Leads to loss of microvilli, membrane blebbing, and swelling of [[Rough Endoplasmic Reticulum|RER]]
 - Eventually, the damage becomes irreversible
-  - Hallmark is membrane damage
+  - Hallmark is membrane damage → [[Apoptosis]]
