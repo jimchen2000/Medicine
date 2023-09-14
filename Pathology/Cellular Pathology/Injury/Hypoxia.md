@@ -6,11 +6,11 @@ Sources: Pathoma
 ---
 # Hypoxia
 
-| Cause                  |
-| ---------------------- |
-| [[Ischemia]]           |
-| [[Hypoxemia]]          |
-| Decreased blood oxygen |
+| Cause                          |
+| ------------------------------ |
+| [[Ischemia]]                   |
+| [[Hypoxemia]]                  |
+| Decreased O2-carrying capacity |
 
 - Low oxygen delivery to tissue
 - 
