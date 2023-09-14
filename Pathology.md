@@ -13,15 +13,15 @@ Sources: Pathoma
   2. Skeletal muscles
   3. Nerves
 
-| Adaptation      |     |
-| --------------- | --- |
-| [[Hypertrophy]] |     |
-| [[Hyperplasia]] |     |
-| [[Atrophy]]     |     |
-| [[Aplasia]]     |     |
-| [[Hypoplasia]]  |     |
-| [[Metaplasia]]  |     |
-| [[Dysplasia]]   |     |
+| Adaptation      |
+| --------------- |
+| [[Hypertrophy]] |
+| [[Hyperplasia]] |
+| [[Atrophy]]     |
+| [[Aplasia]]     |
+| [[Hypoplasia]]  |
+| [[Metaplasia]]  |
+| [[Dysplasia]]   |
 
 ### Cellular Injury
 - Occurs when stress exceeds the cell's ability to adapt
@@ -34,6 +34,11 @@ Sources: Pathoma
 | [[Hypoxia]]                      |
 | Trauma                           |
 | Genetic mutation                 |
+
+### Cell Death
+- Morphologic hallmark is **loss of [[n**
+- Occurs via pyknosis, karyorrhexis, and karyolysis
+- 
 
 ## Musculoskeletal Pathology
 ## Hematopathology

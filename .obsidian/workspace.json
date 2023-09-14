@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pathology/Cellular Pathology/Injury/Hypoxia.md",
+                "file": "Pathology.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pathology/Cellular Pathology/Injury/Hypoxia.md",
+                "file": "Pathology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pathology/Cellular Pathology/Injury/Hypoxia.md",
+                "file": "Pathology.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,8 +162,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,8 +178,8 @@
   },
   "active": "c9b09edab692abe9",
   "lastOpenFiles": [
-    "Pathology/Cellular Pathology/Injury/Methemoglobinemia.md",
     "Pathology/Cellular Pathology/Injury/Hypoxia.md",
+    "Pathology/Cellular Pathology/Injury/Methemoglobinemia.md",
     "Pathology/Cellular Pathology/Injury/CO Poisoning.md",
     "Pathology/Cellular Pathology/Injury/Anemia.md",
     "Pathology/Cellular Pathology/Injury/Hypoxemia.md",
