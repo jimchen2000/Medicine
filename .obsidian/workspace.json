@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pathology/Cellular Pathology/Injury/Anemia.md",
+                "file": "Pathology/Cellular Pathology/Injury/CO Poisoning.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pathology/Cellular Pathology/Injury/Anemia.md",
+                "file": "Pathology/Cellular Pathology/Injury/CO Poisoning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pathology/Cellular Pathology/Injury/Anemia.md",
+                "file": "Pathology/Cellular Pathology/Injury/CO Poisoning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,12 +173,14 @@
       "canvas:Create new canvas": false,
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "c9b09edab692abe9",
   "lastOpenFiles": [
     "Pathology/Cellular Pathology/Injury/Hypoxia.md",
+    "Pathology/Cellular Pathology/Injury/CO Poisoning.md",
     "Pathology/Cellular Pathology/Injury/Anemia.md",
     "Pathology/Cellular Pathology/Injury/Hypoxemia.md",
     "Resources/1-s2.0-S0195561608000636-gr1.jpg",
@@ -210,7 +212,6 @@
     "Immunology/Antibodies/IgE.md",
     "Immunology/Immune Cells/NK Cell.md",
     "Immunology/Immune Cells/Neutrophil.md",
-    "Immunology/Immune Cells/Eosinophil.md",
     "Cell/Cell Junctions",
     "Cell/Cell Cycles",
     "Immunology/Antibodies",
