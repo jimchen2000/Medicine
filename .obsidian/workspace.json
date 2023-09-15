@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "515786abab241d75",
+        "id": "247724decbf72fe9",
         "type": "tabs",
         "children": [
           {
-            "id": "c9b09edab692abe9",
+            "id": "3c0be362b532bbff",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pathology/Cellular Pathology/Death/Necrosis.md",
+                "file": "Pathology.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e12d3417df6e9e47",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pathology.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pathology/Cellular Pathology/Death/Necrosis.md",
+                "file": "Pathology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pathology/Cellular Pathology/Death/Necrosis.md",
+                "file": "Pathology.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,33 +186,32 @@
       "canvas:Create new canvas": false,
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c9b09edab692abe9",
+  "active": "e12d3417df6e9e47",
   "lastOpenFiles": [
-    "Pathology.md",
-    "Pathology/Cellular Pathology/Death/Necrosis.md",
-    "Pathology/Cellular Pathology/Death",
-    "Pathology/Cellular Pathology/Injury/Hypoxia.md",
     "Pathology/Cellular Pathology/Injury/Methemoglobinemia.md",
+    "Pathology/Cellular Pathology/Injury/Hypoxemia.md",
+    "Pathology/Cellular Pathology/Death/Necrosis.md",
+    "Pathology/Cellular Pathology/Injury/Ischemia.md",
     "Pathology/Cellular Pathology/Injury/CO Poisoning.md",
     "Pathology/Cellular Pathology/Injury/Anemia.md",
-    "Pathology/Cellular Pathology/Injury/Hypoxemia.md",
-    "Resources/1-s2.0-S0195561608000636-gr1.jpg",
-    "Pathology/Cellular Pathology/Injury/Ischemia.md",
-    "Pathology/Cellular Pathology/Injury",
     "Pathology/Cellular Pathology/Adaptation/Hypoplasia.md",
+    "Pathology/Cellular Pathology/Death",
+    "Pathology/Cellular Pathology/Injury/Hypoxia.md",
+    "Pathology/Cellular Pathology/Injury",
+    "Resources/1-s2.0-S0195561608000636-gr1.jpg",
+    "Pathology.md",
+    "Pathology/Cellular Pathology/Adaptation/Aplasia.md",
     "Pathology/Cellular Pathology/Adaptation/Metaplasia.md",
-    "Pathology/Cellular Pathology/Adaptation/Hypertrophy.md",
-    "Pathology/Cellular Pathology/Adaptation/Hyperplasia.md",
     "Pathology/Cellular Pathology/Adaptation/Dysplasia.md",
     "Pathology/Cellular Pathology/Adaptation/Atrophy.md",
-    "Pathology/Cellular Pathology/Adaptation/Aplasia.md",
     "Pathology/Cellular Pathology/Adaptation",
-    "Pathology/Cellular Pathology",
+    "Pathology/Cellular Pathology/Adaptation/Hypertrophy.md",
+    "Pathology/Cellular Pathology/Adaptation/Hyperplasia.md",
     "Immunology/Innate Immunity/Phagocytosis.md",
+    "Pathology/Cellular Pathology",
     "Resources/Screenshot 2023-09-12 at 14.48.46.png",
     "Resources/Screenshot 2023-09-12 at 14.46.06.png",
     "Immunology.md",
