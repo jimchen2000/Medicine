@@ -4,29 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "0e7cc1d41759466c",
+        "id": "1e1b1165e90af240",
         "type": "tabs",
         "children": [
           {
-            "id": "fafa0237f4673648",
+            "id": "a7ac2b5e305e454d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "48a2e1bf9cd12d63",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.4.13"
+                "file": "Pathology/Cellular Pathology/Injury/Hypoxemia.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Pathology/Cellular Pathology/Injury/Hypoxemia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Pathology/Cellular Pathology/Injury/Hypoxemia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,42 +187,42 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "48a2e1bf9cd12d63",
+  "active": "a7ac2b5e305e454d",
   "lastOpenFiles": [
+    "Pathology/Cellular Pathology/Injury/CO Poisoning.md",
+    "Pathology/Cellular Pathology/Injury/Anemia.md",
+    "Pathology/Cellular Pathology/Adaptation/Metaplasia.md",
+    "Pathology/Cellular Pathology/Adaptation/Hypoplasia.md",
+    "Pathology/Cellular Pathology/Adaptation/Hypertrophy.md",
+    "Pathology/Cellular Pathology/Adaptation/Hyperplasia.md",
+    "Pathology/Cellular Pathology/Adaptation/Dysplasia.md",
+    "Pathology/Cellular Pathology/Adaptation/Atrophy.md",
+    "Pathology/Cellular Pathology/Adaptation/Aplasia.md",
+    "Pathology/Cellular Pathology/Death/Necrosis.md",
+    "Physiology/Cell Physiology/Membrane Transport/Simple Diffusion.md",
+    "Physiology/Cell Physiology/Membrane Transport/Secondary Active Transport.md",
+    "Physiology/Cell Physiology/Membrane Transport/Primary Active Transport.md",
+    "Physiology/Cell Physiology/Membrane Transport/Facilitated Diffusion.md",
+    "Physiology/Cell Physiology/Membrane Transport/Carrier-mediated Transport.md",
+    "Physiology/Cell Physiology/Signal Transduction/Adenylyl Cyclase Pathway.md",
+    "Physiology/Cell Physiology/Signal Transduction/G Protein-Coupled Receptor.md",
+    "Physiology/Cell Physiology/Signal Transduction/Phospholipase C Pathway.md",
     "Pathology.md",
     "Pathology/Cellular Pathology/Injury/Methemoglobinemia.md",
     "Pathology/Cellular Pathology/Injury/Hypoxemia.md",
-    "Pathology/Cellular Pathology/Death/Necrosis.md",
     "Pathology/Cellular Pathology/Injury/Ischemia.md",
-    "Pathology/Cellular Pathology/Injury/CO Poisoning.md",
-    "Pathology/Cellular Pathology/Injury/Anemia.md",
-    "Pathology/Cellular Pathology/Adaptation/Hypoplasia.md",
     "Pathology/Cellular Pathology/Death",
     "Pathology/Cellular Pathology/Injury/Hypoxia.md",
     "Pathology/Cellular Pathology/Injury",
     "Resources/1-s2.0-S0195561608000636-gr1.jpg",
-    "Pathology/Cellular Pathology/Adaptation/Aplasia.md",
-    "Pathology/Cellular Pathology/Adaptation/Metaplasia.md",
-    "Pathology/Cellular Pathology/Adaptation/Dysplasia.md",
-    "Pathology/Cellular Pathology/Adaptation/Atrophy.md",
     "Pathology/Cellular Pathology/Adaptation",
-    "Pathology/Cellular Pathology/Adaptation/Hypertrophy.md",
-    "Pathology/Cellular Pathology/Adaptation/Hyperplasia.md",
     "Immunology/Innate Immunity/Phagocytosis.md",
     "Pathology/Cellular Pathology",
     "Resources/Screenshot 2023-09-12 at 14.48.46.png",
     "Resources/Screenshot 2023-09-12 at 14.46.06.png",
     "Immunology.md",
     "Immunology/Innate Immunity/Complement System.md",
-    "Immunology/Innate Immunity/Complement System/Alternative Pathway.md",
-    "Immunology/Innate Immunity/Complement System/Classical Pathway.md",
-    "Medicine.md",
-    "Immunology/Innate Immunity/Inflammation.md",
     "Immunology/Receptors",
-    "Immunology/Cytokine.md",
-    "Immunology/Antibody.md",
-    "Immunology/Antibodies/IgD.md",
-    "Immunology/Antibodies/IgE.md",
     "Cell/Cell Junctions",
     "Cell/Cell Cycles",
     "Immunology/Antibodies",
