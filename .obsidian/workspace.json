@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pathology/Cellular Pathology/Injury/Hypoxemia.md",
+                "file": "Immunology/Immune Cells/Mast Cell.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pathology/Cellular Pathology/Injury/Hypoxemia.md",
+                "file": "Immunology/Immune Cells/Mast Cell.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pathology/Cellular Pathology/Injury/Hypoxemia.md",
+                "file": "Immunology/Immune Cells/Mast Cell.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +189,10 @@
   },
   "active": "a7ac2b5e305e454d",
   "lastOpenFiles": [
+    "Immunology.md",
+    "Immunology/Immune Cells/Mast Cell.md",
     "Pathology/Cellular Pathology/Injury/CO Poisoning.md",
+    "Pathology/Cellular Pathology/Injury/Hypoxemia.md",
     "Pathology/Cellular Pathology/Injury/Anemia.md",
     "Pathology/Cellular Pathology/Adaptation/Metaplasia.md",
     "Pathology/Cellular Pathology/Adaptation/Hypoplasia.md",
@@ -209,7 +212,6 @@
     "Physiology/Cell Physiology/Signal Transduction/Phospholipase C Pathway.md",
     "Pathology.md",
     "Pathology/Cellular Pathology/Injury/Methemoglobinemia.md",
-    "Pathology/Cellular Pathology/Injury/Hypoxemia.md",
     "Pathology/Cellular Pathology/Injury/Ischemia.md",
     "Pathology/Cellular Pathology/Death",
     "Pathology/Cellular Pathology/Injury/Hypoxia.md",
@@ -220,8 +222,6 @@
     "Pathology/Cellular Pathology",
     "Resources/Screenshot 2023-09-12 at 14.48.46.png",
     "Resources/Screenshot 2023-09-12 at 14.46.06.png",
-    "Immunology.md",
-    "Immunology/Innate Immunity/Complement System.md",
     "Immunology/Receptors",
     "Cell/Cell Junctions",
     "Cell/Cell Cycles",
