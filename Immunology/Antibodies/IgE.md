@@ -6,6 +6,7 @@ aliases:
 Sources: Janeway, Pixorize
 ---
 # IgE
+![[Screenshot 2023-09-22 at 09.51.37.png]]
 - [[Inflammation]]
 - Allergy/anaphylaxis→ **[[Type 1 hypersensitivity reaction]]**
 

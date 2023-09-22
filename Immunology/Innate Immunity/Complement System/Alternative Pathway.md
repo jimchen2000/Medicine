@@ -4,6 +4,7 @@ Aliases:
 Sources: Janeway
 ---
 # Alternative Pathway
+![[Screenshot 2023-09-22 at 09.55.54.png]]
 ![[Pasted image 20230901111545.png]]
 ![[Pasted image 20230901111601.png|500]]
 ![[Pasted image 20230901111656.png|200]]

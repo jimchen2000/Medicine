@@ -6,6 +6,7 @@ aliases:
 Sources: Janeway, Pixorize
 ---
 # IgM
+![[Screenshot 2023-09-22 at 09.50.26.png]]
 - Usually in the pentameric form (connected via a J chain)
 - Archetypal (original) immunoglobulin produced by [[B Cell]]s
 - Immediate response to antigen

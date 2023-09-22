@@ -4,6 +4,7 @@ Aliases:
 Sources: Janeway
 ---
 # Classical Pathway
+![[Screenshot 2023-09-22 at 09.54.15.png]]
 ![[Screenshot 2023-08-31 at 18.19.40.png]]
 ![[Screenshot 2023-08-31 at 18.19.57.png]]
 - Initiated by [[IgM]] binding to a pathogen surface

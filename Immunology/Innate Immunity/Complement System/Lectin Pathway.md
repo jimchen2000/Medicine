@@ -4,6 +4,7 @@ Aliases:
 Sources: Janeway
 ---
 # Lectin Pathway
+![[Screenshot 2023-09-22 at 09.54.49.png]]
 ![[Pasted image 20230901103845.png|500]]
 ![[Pasted image 20230901110626.png]]
 - In general, lectin is the protein binding with carbohydrates. 

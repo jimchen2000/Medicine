@@ -6,11 +6,12 @@ aliases:
 Sources: Janeway, Pixorize
 ---
 # IgG
+![[Screenshot 2023-09-22 at 09.49.46.png]]
 - The most common antibodies in blood
 - Produced by [[B Cell]]
 - Delayed response to antigen
 - Passing through placenta
-![[Screenshot 2023-09-22 at 09.49.46.png]]
+
 1. [[Opsonization]] for bacteria
 2. Neutralization of toxins/antigens
 3. [[Complement System#Complement Fixation]] 
