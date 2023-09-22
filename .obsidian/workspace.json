@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Immunology/Innate Immunity/Complement System.md",
+                "file": "Immunology/Immune Cells/NK Cell.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Immunology/Innate Immunity/Complement System.md",
+                "file": "Immunology/Immune Cells/NK Cell.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Immunology/Innate Immunity/Complement System.md",
+                "file": "Immunology/Immune Cells/NK Cell.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,15 +189,17 @@
   },
   "active": "a7ac2b5e305e454d",
   "lastOpenFiles": [
+    "Immunology.md",
+    "Immunology/Immune Cells/Macrophage.md",
+    "Immunology/Immune Cells/Neutrophil.md",
+    "Immunology/Innate Immunity/Complement System.md",
     "Immunology/Innate Immunity/Complement System/Alternative Pathway.md",
     "Resources/Screenshot 2023-09-22 at 09.55.54.png",
-    "Immunology/Innate Immunity/Complement System.md",
     "Immunology/Innate Immunity/Complement System/Lectin Pathway.md",
     "Resources/Screenshot 2023-09-22 at 09.54.49.png",
     "Immunology/Innate Immunity/Complement System/Classical Pathway.md",
     "Resources/Screenshot 2023-09-22 at 09.54.15.png",
     "Resources/Screenshot 2023-09-22 at 09.53.43.png",
-    "Immunology.md",
     "Immunology/Antibodies/IgD.md",
     "Resources/Screenshot 2023-09-22 at 09.52.14.png",
     "Immunology/Antibodies/IgE.md",
@@ -210,11 +212,9 @@
     "Resources/Screenshot 2023-09-22 at 09.49.25.png",
     "Immunology/Immune Cells/NK Cell.md",
     "Resources/Screenshot 2023-09-22 at 09.48.41.png",
-    "Immunology/Immune Cells/Neutrophil.md",
     "Immunology/Immune Cells/Eosinophil.md",
     "Immunology/Immune Cells/Basophil.md",
     "Immunology/Immune Cells/Dendritic Cell.md",
-    "Immunology/Immune Cells/Macrophage.md",
     "Immunology/Immune Cells/Monocyte.md",
     "Immunology/Immune Cells/Mast Cell.md",
     "Pathology/Cellular Pathology/Injury/CO Poisoning.md",
