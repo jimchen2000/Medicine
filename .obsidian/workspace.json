@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Immunology/Immune Cells/NK Cell.md",
+                "file": "Pathology.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Immunology/Immune Cells/NK Cell.md",
+                "file": "Pathology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Immunology/Immune Cells/NK Cell.md",
+                "file": "Pathology.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,6 +190,10 @@
   "active": "a7ac2b5e305e454d",
   "lastOpenFiles": [
     "Immunology.md",
+    "Microbiology.md",
+    "Cell.md",
+    "Pathology/Cellular Pathology/Injury/CO Poisoning.md",
+    "Immunology/Immune Cells/NK Cell.md",
     "Immunology/Immune Cells/Macrophage.md",
     "Immunology/Immune Cells/Neutrophil.md",
     "Immunology/Innate Immunity/Complement System.md",
@@ -210,21 +214,17 @@
     "Resources/Screenshot 2023-09-22 at 09.49.46.png",
     "Immunology/Antibodies/IgA.md",
     "Resources/Screenshot 2023-09-22 at 09.49.25.png",
-    "Immunology/Immune Cells/NK Cell.md",
     "Resources/Screenshot 2023-09-22 at 09.48.41.png",
     "Immunology/Immune Cells/Eosinophil.md",
     "Immunology/Immune Cells/Basophil.md",
     "Immunology/Immune Cells/Dendritic Cell.md",
     "Immunology/Immune Cells/Monocyte.md",
     "Immunology/Immune Cells/Mast Cell.md",
-    "Pathology/Cellular Pathology/Injury/CO Poisoning.md",
     "Pathology/Cellular Pathology/Injury/Hypoxemia.md",
     "Pathology/Cellular Pathology/Injury/Anemia.md",
     "Pathology/Cellular Pathology/Adaptation/Metaplasia.md",
     "Pathology/Cellular Pathology/Adaptation/Hypoplasia.md",
     "Pathology/Cellular Pathology/Adaptation/Hypertrophy.md",
-    "Pathology/Cellular Pathology/Adaptation/Hyperplasia.md",
-    "Pathology/Cellular Pathology/Adaptation/Dysplasia.md",
     "Pathology/Cellular Pathology/Death",
     "Pathology/Cellular Pathology/Injury",
     "Pathology/Cellular Pathology/Adaptation",
