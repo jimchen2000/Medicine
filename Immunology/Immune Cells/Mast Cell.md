@@ -4,6 +4,7 @@ Aliases:
 Sources: Janeway
 ---
 # Mast Cell
+![[Screenshot 2023-09-22 at 09.40.53.png]]
 - Granules inside stained (H&E) blue in the basic environment
 
 1. Activated by **trauma** → Degranulation

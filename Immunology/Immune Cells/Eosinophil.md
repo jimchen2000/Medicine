@@ -4,6 +4,7 @@ Aliases:
 Sources: Janeway
 ---
 # Eosinophil
+![[Screenshot 2023-09-22 at 09.44.22.png]]
 - 2 lobed (bilobate) [[nucleus]]
 - Granules inside stained pink in the acidic environment
 - Involved in allergic/anaphylactic (hives) reactions

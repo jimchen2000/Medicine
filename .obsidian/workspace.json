@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Immunology/Immune Cells/Mast Cell.md",
+                "file": "Immunology/Antibodies/IgG.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Immunology/Immune Cells/Mast Cell.md",
+                "file": "Immunology/Antibodies/IgG.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Immunology/Immune Cells/Mast Cell.md",
+                "file": "Immunology/Antibodies/IgG.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,8 +189,27 @@
   },
   "active": "a7ac2b5e305e454d",
   "lastOpenFiles": [
+    "Resources/Screenshot 2023-09-22 at 09.49.46.png",
     "Immunology.md",
+    "Immunology/Antibodies/IgA.md",
+    "Resources/Screenshot 2023-09-22 at 09.49.25.png",
+    "Immunology/Immune Cells/NK Cell.md",
+    "Resources/Screenshot 2023-09-22 at 09.48.41.png",
+    "Immunology/Immune Cells/Neutrophil.md",
+    "Resources/Screenshot 2023-09-22 at 09.47.54.png",
+    "Resources/Screenshot 2023-09-22 at 09.47.12.png",
+    "Resources/Screenshot 2023-09-22 at 09.45.53.png",
+    "Immunology/Immune Cells/Eosinophil.md",
+    "Resources/Screenshot 2023-09-22 at 09.44.22.png",
+    "Immunology/Immune Cells/Basophil.md",
+    "Resources/Screenshot 2023-09-22 at 09.43.41.png",
+    "Immunology/Immune Cells/Dendritic Cell.md",
+    "Resources/Screenshot 2023-09-22 at 09.42.56.png",
+    "Immunology/Immune Cells/Macrophage.md",
+    "Resources/Screenshot 2023-09-22 at 09.42.03.png",
+    "Immunology/Immune Cells/Monocyte.md",
     "Immunology/Immune Cells/Mast Cell.md",
+    "Resources/Screenshot 2023-09-22 at 09.40.53.png",
     "Pathology/Cellular Pathology/Injury/CO Poisoning.md",
     "Pathology/Cellular Pathology/Injury/Hypoxemia.md",
     "Pathology/Cellular Pathology/Injury/Anemia.md",
@@ -206,34 +225,15 @@
     "Physiology/Cell Physiology/Membrane Transport/Secondary Active Transport.md",
     "Physiology/Cell Physiology/Membrane Transport/Primary Active Transport.md",
     "Physiology/Cell Physiology/Membrane Transport/Facilitated Diffusion.md",
-    "Physiology/Cell Physiology/Membrane Transport/Carrier-mediated Transport.md",
-    "Physiology/Cell Physiology/Signal Transduction/Adenylyl Cyclase Pathway.md",
-    "Physiology/Cell Physiology/Signal Transduction/G Protein-Coupled Receptor.md",
-    "Physiology/Cell Physiology/Signal Transduction/Phospholipase C Pathway.md",
-    "Pathology.md",
-    "Pathology/Cellular Pathology/Injury/Methemoglobinemia.md",
-    "Pathology/Cellular Pathology/Injury/Ischemia.md",
     "Pathology/Cellular Pathology/Death",
-    "Pathology/Cellular Pathology/Injury/Hypoxia.md",
     "Pathology/Cellular Pathology/Injury",
-    "Resources/1-s2.0-S0195561608000636-gr1.jpg",
     "Pathology/Cellular Pathology/Adaptation",
-    "Immunology/Innate Immunity/Phagocytosis.md",
     "Pathology/Cellular Pathology",
-    "Resources/Screenshot 2023-09-12 at 14.48.46.png",
-    "Resources/Screenshot 2023-09-12 at 14.46.06.png",
     "Immunology/Receptors",
     "Cell/Cell Junctions",
     "Cell/Cell Cycles",
     "Immunology/Antibodies",
     "Immunology/Cytokines",
-    "Resources/Screenshot 2023-09-05 at 12.44.55.png",
-    "Physiology/Cell Physiology/Osmosis",
-    "Resources/Pasted image 20230901153748.png",
-    "Resources/Pasted image 20230901140435.png",
-    "Resources/CD59 004.jpg",
-    "Resources/Pasted image 20230901125647.png",
-    "Resources/Pasted image 20230901125626.png",
-    "Resources/Pasted image 20230901125534.png"
+    "Physiology/Cell Physiology/Osmosis"
   ]
 }

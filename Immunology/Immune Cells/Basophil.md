@@ -4,6 +4,7 @@ Aliases:
 Sources: Janeway
 ---
 # Basophil
+![[Screenshot 2023-09-22 at 09.43.41.png]]
 - Granules inside stained blue in the basic environment
 
 1. Activated by [[IgE]] Fc → Fc receptor → Degranulation

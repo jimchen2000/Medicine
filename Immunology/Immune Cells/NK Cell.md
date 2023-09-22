@@ -5,7 +5,7 @@ Sources: Janeway
 ---
 # NK Cell
 ![[Pasted image 20230901123440.png|300]]
-
+![[Screenshot 2023-09-22 at 09.48.41.png]]
 
 1. Stimulated by **[[IL-2]]**
    (can be used as a cancer therapy)

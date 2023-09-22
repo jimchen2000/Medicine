@@ -4,6 +4,7 @@ Aliases:
 Sources: Janeway
 ---
 # Dendritic Cell
+![[Screenshot 2023-09-22 at 09.42.56.png]]
 - In the skin, called **[[Langerhans cell]]**
 - Best antigen-presenting cell APC
   - Self-antigen: nothing happened

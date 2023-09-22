@@ -10,6 +10,7 @@ Sources: Janeway
 - In the brain, called [[microglia]]
 - In the liver, called [[Kupffer cell]]
 
+![[Screenshot 2023-09-22 at 09.42.03.png]]
 - Kidney-shaped [[nucleus]]
 - Frosted glass [[cytoplasm]]
 - Antigen-presenting cell APC

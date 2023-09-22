@@ -4,6 +4,7 @@ Aliases:
 Sources: Janeway
 ---
 # Neutrophil
+![[Screenshot 2023-09-22 at 09.45.53.png]]
 - 3-5 lobed [[nucleus]]
 - The most abundant polymorphonuclear cell **PMN**
 - The first cell engaged in [[Inflammation]] ⇒ increase in neutrophil number
@@ -23,6 +24,7 @@ Sources: Janeway
 - Made while neutrophil is overwhelmed by infection
 
 ## Granule
+![[Screenshot 2023-09-22 at 09.47.12.png]]
 1. Myeloperoxidase **MPO**
    - blue-green compound
    - catalyzing oxidative burst and bleach (very toxic to microbes)
@@ -52,6 +54,7 @@ Sources: Janeway
 $$\text{O}_2\xrightarrow[\text{oxidase}]{\text{NADPH}}\text{O}_2^-\xrightarrow[]{SOD}\text{H}_2\text{O}_2$$
 $$\text{H}_2\text{O}_2\xrightarrow[]{MPO}\text{HClO}^-$$
 $$\text{H}_2\text{O}_2\xrightarrow[]{Catalase}\text{H}_2\text{O}+\text{O}_2$$
+![[Screenshot 2023-09-22 at 09.47.54.png]]
 - Generating reactive oxidative species toxic to the pathogen
 1. First catalyzed by **NADPH oxidase**
   - transferring an electron from NADPH to an oxygen molecule
