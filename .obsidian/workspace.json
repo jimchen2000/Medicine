@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pathology.md",
+                "file": "Physiology.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4bdeae0920191f18",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Anatomy.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9b810ae0f3d82eea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Histology.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -93,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pathology.md",
+                "file": "Histology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pathology.md",
+                "file": "Histology.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,11 +212,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a7ac2b5e305e454d",
+  "active": "9b810ae0f3d82eea",
   "lastOpenFiles": [
-    "Immunology.md",
-    "Microbiology.md",
+    "Anatomy.md",
+    "Histology.md",
+    "Biochemistry.md",
     "Cell.md",
+    "Microbiology.md",
+    "Pathology.md",
+    "Physiology.md",
+    "Medicine.md",
+    "Immunology.md",
     "Pathology/Cellular Pathology/Injury/CO Poisoning.md",
     "Immunology/Immune Cells/NK Cell.md",
     "Immunology/Immune Cells/Macrophage.md",
@@ -219,12 +250,6 @@
     "Immunology/Immune Cells/Basophil.md",
     "Immunology/Immune Cells/Dendritic Cell.md",
     "Immunology/Immune Cells/Monocyte.md",
-    "Immunology/Immune Cells/Mast Cell.md",
-    "Pathology/Cellular Pathology/Injury/Hypoxemia.md",
-    "Pathology/Cellular Pathology/Injury/Anemia.md",
-    "Pathology/Cellular Pathology/Adaptation/Metaplasia.md",
-    "Pathology/Cellular Pathology/Adaptation/Hypoplasia.md",
-    "Pathology/Cellular Pathology/Adaptation/Hypertrophy.md",
     "Pathology/Cellular Pathology/Death",
     "Pathology/Cellular Pathology/Injury",
     "Pathology/Cellular Pathology/Adaptation",
