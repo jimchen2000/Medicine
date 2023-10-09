@@ -5,7 +5,7 @@ aliases: []
 Sources: Pathoma
 ---
 # Pathology
-## Cellular Pathology
+## Cell
 ### Growth Adaptation
 - Stress increases/decreases → organ size increases/decreases
 - Permanent tissues only undergo hypertrophy
@@ -44,12 +44,15 @@ Sources: Pathoma
 | [[Necrosis]]  |
 | [[Apoptosis]] |
 
-## Musculoskeletal Pathology
-## Hematopathology
-## Cardiac Pathology
-## Pulmonary Pathology
-## Renal Pathology
-## Neural Pathology
-## Endocrine Pathology
-## Reproductive Pathology
-## Gastrointestinal Pathology
+## Integumentary system
+## Immune system
+## Hematological system
+## Musculoskeletal system
+## Cardiovascular system
+## Respiratory system
+## Renal system
+## Gastrointestinal system
+## Endocrine system
+## Reproductive system
+## Nervous system
+## Eyes, ears, nose, and throat
