@@ -22,10 +22,17 @@ Sources: Physeo, BRS
 ### Electrical conduction
 ![[Screenshot 2023-10-09 at 22.46.29.png]]
 ![[Screenshot 2023-10-09 at 22.47.55.png]]
+![[Screenshot 2023-10-09 at 22.49.10.png]]
+![[Screenshot 2023-10-09 at 22.50.12.png]]
+![[Screenshot 2023-10-09 at 22.51.28.png]]
 
 ### Conduction velocity
 ![[Screenshot 2023-10-09 at 22.40.04.png]]
 ![[Screenshot 2023-10-09 at 22.41.32.png]]
+
+### Electrocardiogram
+![[Screenshot 2023-10-09 at 22.55.31.png]]
+![[Screenshot 2023-10-09 at 22.57.26.png]]
 
 ## Respiratory system
 ## Renal system
