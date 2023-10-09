@@ -33,6 +33,9 @@ Sources: Physeo, BRS
 ### Electrocardiogram
 ![[Screenshot 2023-10-09 at 22.55.31.png]]
 ![[Screenshot 2023-10-09 at 22.57.26.png]]
+![[Screenshot 2023-10-09 at 22.58.12.png]]
+![[Screenshot 2023-10-09 at 22.59.24.png]]
+![[Screenshot 2023-10-09 at 23.00.07.png]]
 
 ## Respiratory system
 ## Renal system
