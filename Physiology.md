@@ -19,6 +19,14 @@ Sources: Physeo, BRS
 ## Hematological system
 ## Musculoskeletal system
 ## Cardiovascular system
+### Electrical conduction
+![[Screenshot 2023-10-09 at 22.46.29.png]]
+![[Screenshot 2023-10-09 at 22.47.55.png]]
+
+### Conduction velocity
+![[Screenshot 2023-10-09 at 22.40.04.png]]
+![[Screenshot 2023-10-09 at 22.41.32.png]]
+
 ## Respiratory system
 ## Renal system
 ## Gastrointestinal system

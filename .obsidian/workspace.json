@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pathology.md",
+                "file": "Physiology.md",
                 "mode": "source",
                 "source": false
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pathology.md",
+                "file": "Physiology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pathology.md",
+                "file": "Physiology.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -237,11 +237,15 @@
   },
   "active": "a7ac2b5e305e454d",
   "lastOpenFiles": [
+    "Resources/Screenshot 2023-10-09 at 22.47.55.png",
+    "Resources/Screenshot 2023-10-09 at 22.46.29.png",
+    "Resources/Screenshot 2023-10-09 at 22.41.32.png",
+    "Resources/Screenshot 2023-10-09 at 22.40.04.png",
+    "Pathology.md",
     "Medicine.md",
     "Physiology.md",
     "Anatomy.md",
     "Embryology.md",
-    "Pathology.md",
     "Histology.md",
     "Pharmacology.md",
     "Biochemistry.md",
@@ -267,12 +271,8 @@
     "Immunology/Antibodies/IgM.md",
     "Resources/Screenshot 2023-09-22 at 09.50.26.png",
     "Immunology/Antibodies/IgG.md",
-    "Resources/Screenshot 2023-09-22 at 09.49.46.png",
     "Immunology/Antibodies/IgA.md",
-    "Resources/Screenshot 2023-09-22 at 09.49.25.png",
-    "Resources/Screenshot 2023-09-22 at 09.48.41.png",
     "Immunology/Immune Cells/Eosinophil.md",
-    "Immunology/Immune Cells/Basophil.md",
     "Pathology/Cellular Pathology/Death",
     "Pathology/Cellular Pathology/Injury",
     "Pathology/Cellular Pathology/Adaptation",
