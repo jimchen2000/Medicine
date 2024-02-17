@@ -55,7 +55,7 @@ Sources: Janeway, Pixorize
 - Slow response in days to weeks
 - Variable
 - Numerous highly selective specificities
-- Improve during the course of the response
+- Improve during the response
 
 | Adaptive Immunity      | Contents                                                        |
 | ---------------------- | --------------------------------------------------------------- |

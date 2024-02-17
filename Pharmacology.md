@@ -18,6 +18,6 @@ Sources:
 ## Reproductive system
 ## Nervous system
 ## Eyes, ears, nose, and throat
-## Behavioural science
+## Behavioral science
 ## Microbiology
 ## Toxicology
