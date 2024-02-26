@@ -11,8 +11,12 @@
             "id": "0967348dc1129215",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Immunology.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Immunology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Immunology.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,13 +189,22 @@
   },
   "active": "0967348dc1129215",
   "lastOpenFiles": [
-    "Histology.md",
-    "Physiology.md",
-    "Physiology/Cell Physiology/Signal Transduction/G Protein-Coupled Receptor.md",
+    "Immunology/Innate Immunity/Complement System/C5 Activation.md",
     "Immunology.md",
+    "Pathology/Cellular Pathology/Adaptation/Metaplasia.md",
+    "Pathology/Cellular Pathology/Adaptation/Hypoplasia.md",
+    "Pathology/Cellular Pathology/Adaptation/Hypertrophy.md",
+    "Pathology/Cellular Pathology/Adaptation/Hyperplasia.md",
+    "Pathology/Cellular Pathology/Adaptation/Dysplasia.md",
+    "Pathology/Cellular Pathology/Adaptation/Atrophy.md",
+    "Pathology/Cellular Pathology/Adaptation/Aplasia.md",
+    "Pharmacology.md",
+    "Physiology.md",
+    "README.md",
+    "Histology.md",
+    "Physiology/Cell Physiology/Signal Transduction/G Protein-Coupled Receptor.md",
     "Medicine.md",
     "Physiology/Cell Physiology/Signal Transduction/Adenylyl Cyclase Pathway.md",
-    "Pharmacology.md",
     "Resources/Screenshot 2023-10-09 at 23.00.07.png",
     "Resources/Screenshot 2023-10-09 at 22.59.24.png",
     "Resources/Screenshot 2023-10-09 at 22.58.12.png",
@@ -210,15 +225,6 @@
     "Immunology/Immune Cells/NK Cell.md",
     "Immunology/Immune Cells/Macrophage.md",
     "Immunology/Immune Cells/Neutrophil.md",
-    "Immunology/Innate Immunity/Complement System.md",
-    "Immunology/Innate Immunity/Complement System/Alternative Pathway.md",
-    "Immunology/Innate Immunity/Complement System/Lectin Pathway.md",
-    "Immunology/Innate Immunity/Complement System/Classical Pathway.md",
-    "Immunology/Antibodies/IgD.md",
-    "Immunology/Antibodies/IgE.md",
-    "Immunology/Antibodies/IgM.md",
-    "Immunology/Antibodies/IgG.md",
-    "Immunology/Antibodies/IgA.md",
     "Pathology/Cellular Pathology/Death",
     "Pathology/Cellular Pathology/Injury",
     "Pathology/Cellular Pathology/Adaptation",
