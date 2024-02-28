@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "dd06a28b3d58f303",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.8"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -149,7 +160,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -187,7 +200,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0967348dc1129215",
+  "active": "dd06a28b3d58f303",
   "lastOpenFiles": [
     "Immunology/Innate Immunity/Complement System/C5 Activation.md",
     "Immunology.md",
