@@ -104,7 +104,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Medicine.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +120,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Medicine.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
