@@ -13,24 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Immunology.md",
+                "file": "Medicine.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "dd06a28b3d58f303",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.8"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -104,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Immunology.md",
+                "file": "Medicine.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Immunology.md",
+                "file": "Medicine.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,9 +149,7 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
+                "sortOrder": "frequency"
               }
             }
           }
@@ -200,10 +187,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "dd06a28b3d58f303",
+  "active": "0967348dc1129215",
   "lastOpenFiles": [
-    "Immunology/Innate Immunity/Complement System/C5 Activation.md",
+    "Medicine.md",
     "Immunology.md",
+    "Immunology/Innate Immunity/Complement System/C5 Activation.md",
     "Pathology/Cellular Pathology/Adaptation/Metaplasia.md",
     "Pathology/Cellular Pathology/Adaptation/Hypoplasia.md",
     "Pathology/Cellular Pathology/Adaptation/Hypertrophy.md",
@@ -216,7 +204,6 @@
     "README.md",
     "Histology.md",
     "Physiology/Cell Physiology/Signal Transduction/G Protein-Coupled Receptor.md",
-    "Medicine.md",
     "Physiology/Cell Physiology/Signal Transduction/Adenylyl Cyclase Pathway.md",
     "Resources/Screenshot 2023-10-09 at 23.00.07.png",
     "Resources/Screenshot 2023-10-09 at 22.59.24.png",
