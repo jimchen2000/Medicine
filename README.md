@@ -1,7 +1,7 @@
 ---
 Created: [[2023-09-06]]
 Aliases: 
-Sources: 
+Sources: ooo
 ---
 # Medicine
 Notes for Life Science and Medicine
